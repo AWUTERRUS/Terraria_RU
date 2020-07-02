@@ -35,3 +35,4 @@
 * awuterrus@gmail.com
 * [VK](https://vk.com)
 * [Discord](https://discord.gg/ArWFNPA)
+* [Telegram канал](https://t.me/AWUTERRUS)
