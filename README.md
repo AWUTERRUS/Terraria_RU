@@ -34,5 +34,5 @@
 # Наши контактные данные:
 * awuterrus@gmail.com
 * [VK](https://vk.com)
-* [Discord](https://discord.gg/pKB8f5X)
+* [Discord](https://discord.gg/72uR2s6)
 * [Telegram канал](https://t.me/AWUTERRUS)
