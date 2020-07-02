@@ -1,6 +1,6 @@
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/AWUTERRUS/Terraria_RU?include_prereleases)
 ![GitHub All Releases](https://img.shields.io/github/downloads/AWUTERRUS/Terraria_RU/total)
-![Discord](https://img.shields.io/discord/728059389511991408)
+![Discord](https://img.shields.io/discord/728283024646602824)
 
 # Руссификатор Terraria 1.4
 
