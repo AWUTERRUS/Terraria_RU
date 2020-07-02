@@ -2,7 +2,7 @@
 ![GitHub All Releases](https://img.shields.io/github/downloads/AWUTERRUS/Terraria_RU/total)
 ![Discord](https://img.shields.io/discord/728283024646602824)
 
-# Руссификатор Terraria 1.4
+# Русификатор Terraria 1.4
 
 ## Как установить?
 1. Скачать архив под соответствующую версию игры (Steam или GOG): https://github.com/AWUTERRUS/Terraria_RU/releases/latest
