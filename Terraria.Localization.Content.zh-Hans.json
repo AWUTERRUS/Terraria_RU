@@ -302,11 +302,11 @@
 		"EmptyName": "Пустое имя.",
 		"PlayerIsNotCreativeAndWorldIsCreative": "Только казуальные персонажи могут подключаться к казуальному серверу.",
 		"PlayerIsCreativeAndWorldIsNotCreative": "Только не казуальные персонажи могут подключаться к не казуальному серверу.",
-		"CannotTeleportToPylonBecausePlayerIsNotNearAPylon": "Вы не достаточно близко к кристаллу, чтобы телепортироваться с помощью кристальной сети.",
-		"CannotTeleportToPylonBecauseNotEnoughNPCs": "Рядом с этим кристаллом недостаточно жителей чтобы телепортироваться к нему.",
-		"CannotTeleportToPylonBecauseNotEnoughNPCsAtCurrentPylon": "Не достаточно жителей рядом с вашим кристаллом.",
+		"CannotTeleportToPylonBecausePlayerIsNotNearAPylon": "Вы не достаточно близко к пилону, чтобы телепортироваться с помощью кристальной сети.",
+		"CannotTeleportToPylonBecauseNotEnoughNPCs": "Рядом с этим пилоном недостаточно жителей чтобы телепортироваться к нему.",
+		"CannotTeleportToPylonBecauseNotEnoughNPCsAtCurrentPylon": "Не достаточно жителей рядом с вашим пилоном.",
 		"CannotTeleportToPylonBecauseThereIsDanger": "Вы не можете телепортироваться, пока рядом есть угроза!",
-		"CannotTeleportToPylonBecauseNotMeetingBiomeRequirements": "Кристалл находится в неверном биоме.",
+		"CannotTeleportToPylonBecauseNotMeetingBiomeRequirements": "Пилон находится в неверном биоме.",
 		"CannotTeleportToPylonBecauseAccessingLihzahrdTempleEarly": "Древние силы мешают вам добраться до этого места..."
 
 	},
@@ -517,9 +517,9 @@
 		"HeadRemoved": "{0} остался без головы"
 	},
 	"DeathSource": {
-		"Player": "{0} оружием {1}, которое принадлежало {2}.",
-		"NPC": "{0} благодаря {1}.",
-		"Projectile": "{0} благодаря {1}."
+		"Player": "{0} оружием {2}, которое принадлежало {1}.",
+		"NPC": "{0}, а виноват в этом {1}.",
+		"Projectile": "{0}, а виноват в этом {1}."
 	},
 	"DeathText": {
 		"Suffocated": "{0} не смог дышать.",
@@ -540,8 +540,8 @@
 		"Drowned_2": "{0} уснул вместе с рыбами.",
 		"Drowned_3": "{0} захлебнулся.",
 		"Drowned_4": "{0} стал едой для акул.",
-		"Lava_1": "{0} растаял.",
-		"Lava_2": "{0} был испепелился.",
+		"Lava_1": "{0} расплавился.",
+		"Lava_2": "{0} испепелился.",
 		"Lava_3": "{0} попытался плавать в лаве.",
 		"Lava_4": "{0} любил играть с магмой.",
 		"Petrified_1": "{0} разбился в дребезги.",
@@ -565,9 +565,9 @@
 		"EndedVictoryXmas": "Дух Нового Года угасает...",
 		"StartedVictoryHalloween": "Дух Хэллоуина парит в воздухе...",
 		"EndedVictoryHalloween": "Дух Хэллоуина уходит на покой...",
-		"LicenseCatUsed": "Лицензия призывает службу доставки кошек...",
-		"LicenseDogUsed": "Лицензия призывает службу доставки собак...",
-		"LicenseBunnyUsed": "Лицензия призывает службу доставки кроликов..."
+		"LicenseCatUsed": "Вызов службы доставки кошек при помощи лицензии...",
+		"LicenseDogUsed": "Вызов службы доставки собак при помощи лицензии...",
+		"LicenseBunnyUsed": "Вызов службы доставки кроликов при помощи лицензии..."
 	},
 	"Currency": {
 		"Platinum": "Платины",
