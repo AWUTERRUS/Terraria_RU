@@ -33,4 +33,4 @@
 
 # Наши контактные данные:
 * awuterrus@gmail.com
-* [Discord](https://discord.gg/5H5ATZ4)
+* [Discord](https://discord.gg/fEUTdef)
