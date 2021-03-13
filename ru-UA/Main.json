@@ -11,7 +11,12 @@
 		"OpenURL": "Открыть ссылку",
 		"ExperimentalUpdates": "Экспериментальные обновления: {0}",
 		"On": "Вкл.",
-		"Off": "Выкл."
+		"Off": "Выкл.",
+		"Font": "Шрифт",
+		"Refresh": "Обновить",
+		"Apply": "Применить",
+		"SettingsRelaunchAlert": "Изменения вступят в силу только после перезапуска игры",
+		"Default": "По умолчанию"
 	},
 	"Error": {
 		"Error": "Ошибка",
@@ -293,7 +298,7 @@
 		"ToggleCreativeMenu": "Включить казуальные силы",
 		"WorldCannotBeLoadedBecauseItHasAnInvalidGameMode": "Ошибка: данные этого мира повреждены.",
 		"WorldGenEasterEgg_GeneratingBees": "Генерация пчел",
-		"Credits": "Разработчики"
+		"Credits": "Титры"
 	},
 	"Net": {
 		"ClientStatusComplete": "({0}) {1} {2}: Выполнено!",
@@ -2955,25 +2960,35 @@
 	"CreditsRollCategory_EndingNotes": {
 		"1": "Русификация AWUTERRUS",
 		"2": "",
-		"3": "Перевел: Андрей WinUpdate",
-		"4": "",
-		"5": "Внедрил в игру: MicrochipQ",
-		"6": "",
-		"7": "Откорректировали: Rouddy и овиП локоС",
+		"3": "Переводчик",
+		"4": "Андрей WinUpdate",
+		"5": "",
+		"6": "Программист",
+		"7": "MicrochipQ",
 		"8": "",
-		"9": "Тестировали на практике: Андрей WinUpdate,",
-		"10": "MicrochipQ, овиП локоС, Rouddy, Screzzy,",
-		"11": "VladModified, БиЗиН225, DSRev",
+		"9": "Корректоры",
+		"10": "Rouddy",
+		"11": "Коробканутая Жаба",
 		"12": "",
-		"13": "Присоединяйтесь в Discord:",
-		"14": "discord.gg/fEUTdef",
-		"15": "",
-		"16": "Наш GitHub:",
-		"17": "github.com/AWUTERRUS/Terraria_RU",
-		"18": "",
-		"19": "Спасибо, что играете с AWUTERRUS!",
-		"20": "",
-		"21": "Спасибо за игру!"
+		"13": "Бета-тестеры",
+		"14": "Андрей WinUpdate",
+		"15": "MicrochipQ",
+		"16": "Коробканутая Жаба",
+		"17": "Rouddy",
+		"18": "Screzzy",
+		"19": "VladModified",
+		"20": "БиЗиН225",
+		"21": "DSRev",
+		"22": "",
+		"23": "Наш Discord",
+		"24": "discord.gg/fEUTdef",
+		"25": "",
+		"26": "Наш GitHub",
+		"27": "github.com/AWUTERRUS/Terraria_RU",
+		"28": "",
+		"29": "Спасибо, что играете с AWUTERRUS!",
+		"30": "",
+		"31": "Спасибо за игру!"
 		}
 
 }

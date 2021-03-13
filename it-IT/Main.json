@@ -11,7 +11,12 @@
 		"OpenURL": "Apri URL",
 		"ExperimentalUpdates": "Aggiornamenti sperimentali: {0}",
 		"On": "On",
-		"Off": "Off"
+		"Off": "Off",
+		"Font": "Font",
+		"Refresh": "Aggiornare",
+		"Apply": "Applicare",
+		"SettingsRelaunchAlert": "Le modifiche avranno effetto solo dopo aver riavviato il gioco",
+		"Default": "Predefinito"
 	},
 	"GameTitle": {
 		"0": "Terraria: Scava contadino, scava!",

@@ -11,7 +11,12 @@
 		"OpenURL": "开启网址",
 		"ExperimentalUpdates": "实验更新： {0}",
 		"On": "上",
-		"Off": "关"
+		"Off": "关",
+		"Font": "字体",
+		"Refresh": "刷新",
+		"Apply": "申请",
+		"SettingsRelaunchAlert": "更改仅在重新启动游戏后才会生效",
+		"Default": "默认"
 	},
 	"GameTitle": {
 		"0": "泰拉瑞亚：劳工挖啊挖！",

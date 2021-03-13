@@ -11,7 +11,12 @@
 		"OpenURL": "Open URL",
 		"ExperimentalUpdates": "Experimental updates: {0}",
 		"On": "On",
-		"Off": "Off"
+		"Off": "Off",
+		"Font": "Font",
+		"Refresh": "Refresh",
+		"Apply": "Apply",
+		"SettingsRelaunchAlert": "The changes will take effect only after restarting the game",
+		"Default": "Default"
 	},
 	"Error": {
 		"Error": "Error",

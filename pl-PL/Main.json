@@ -11,7 +11,12 @@
 		"OpenURL": "Otwórz łącze",
 		"ExperimentalUpdates": "Aktualizacje eksperymentalne: {0}",
 		"On": "On.",
-		"Off": "Wył."
+		"Off": "Wył.",
+		"Font": "Czcionka",
+		"Refresh": "Odśwież",
+		"Apply": "Zastosuj",
+		"SettingsRelaunchAlert": "Zmiany wejdą w życie dopiero po ponownym uruchomieniu gry",
+		"Default": "Default"
 	},
 	"GameTitle": {
 		"0": "Terraria: kop, młody, kop!",

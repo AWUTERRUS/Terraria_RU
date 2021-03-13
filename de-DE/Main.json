@@ -11,7 +11,12 @@
 		"OpenURL": "URL öffnen",
 		"ExperimentalUpdates": "Experimentelle updates: {0}",
 		"On": "Ein",
-		"Off": "Aus"
+		"Off": "Aus",
+		"Font": "Die Schrift",
+		"Refresh": "Erneuern",
+		"Apply": "Anwenden",
+		"SettingsRelaunchAlert": "Die Änderungen werden erst nach dem Neustart des Spiels wirksam",
+		"Default": "Stillschweigend"
 	},
 	"GameTitle": {
 		"0": "Terraria: Grab, Arbeiter, grab!",

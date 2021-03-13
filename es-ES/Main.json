@@ -11,7 +11,12 @@
 		"OpenURL": "Abrir URL",
 		"ExperimentalUpdates": "Experimental actualizaciones: {0}",
 		"On": "Encendido",
-		"Off": "Apagado"
+		"Off": "Apagado",
+		"Font": "Letra",
+		"Refresh": "Actualizar",
+		"Apply": "Aplicar",
+		"SettingsRelaunchAlert": "Los cambios entrarán en vigor solo después de reiniciar el juego",
+		"Default": "Predeterminado"
 	},
 	"GameTitle": {
 		"0": "Terraria: ¡Cava, peón! ¡Cava!",

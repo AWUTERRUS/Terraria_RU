@@ -11,7 +11,12 @@
 		"OpenURL": "Ouvrir L'URL",
 		"ExperimentalUpdates": "Mises à jour expérimentales: {0}",
 		"On": "On",
-		"Off": "Off"
+		"Off": "Off",
+		"Font": "Police",
+		"Refresh": "Rafraîchir",
+		"Apply": "Appliquer",
+		"SettingsRelaunchAlert": "Les modifications ne prendront effet qu'après le redémarrage du jeu",
+		"Default": "Défaut"
 	},
 	"GameTitle": {
 		"0": "Terraria : Creusez Péon, creusez !",
