@@ -298,7 +298,137 @@
 		"ToggleCreativeMenu": "Включить казуальные силы",
 		"WorldCannotBeLoadedBecauseItHasAnInvalidGameMode": "Ошибка: данные этого мира повреждены.",
 		"WorldGenEasterEgg_GeneratingBees": "Генерация пчел",
-		"Credits": "Титры"
+		"Credits": "Титры",
+		"WorkshopImportWorld": "Импортировать миры мастерской",
+		"Rename": "Переименовать",
+		"Workshop": "Мастерская",
+		"WorkshopHub": "Центр мастерской",
+		"WorkshopSelectWorldToPublishMenuTitle": "Выбрать мир для публикации",
+		"WorkshopSelectResourcePackToPublishMenuTitle": "Выбрать пакет текстур для публикации",
+		"Import": "Импортировать",
+		"ReportsPage": "Страница репортов",
+		"IssueReporterHasThingsToShow": "Просмотреть проблемы"
+	},
+	"Workshop": {
+		"HubDescriptionDefault": "Выбирите опцию для получения дополнительной информации",
+		"HubWorlds": "Импортировать миры",
+		"HubDescriptionImportWorlds": "Импортирует миры, на которые вы подписались, из мастерской Steam в свой список миров, чтобы вы могли играть в них.",
+		"HubPublishWorlds": "Опубликовать миры",
+		"HubDescriptionPublishWorlds": "Публикует ваши миры в мастерскую Steam, чтобы другие могли наслаждаться ими.",
+		"HubResourcePacks": "Использовать пакеты текстур",
+		"HubDescriptionUseResourcePacks": "Использует пакеты текступ, которые вы скачали или на которые вы подписались в мастерской Steam, чтобы вы могли наслаждаться их текстурами и локализациями.",
+		"HubPublishResourcePacks": "Опубликовать пакеты текстур",
+		"HubDescriptionPublishResourcePacks": "Публикует пакеты текстур в мастерскую Steam, чтобы другие могли наслаждаться ими.",
+		"Publish": "Опубликовать",
+		"WorldName": "Название:",
+		"ResourcePackName": "Название:",
+		"WorldPublishDescription": "Публикация мира загрузит его в мастерскую Steam. По умолчанию мир будет приватным и видимым только вам. Вы можете изменить его превью, название и описание по своему усмотрению в Steam, а после сделать его и вовсе общедоступным, когда будете готовы его опубликовать на весь мир. Публикуя этот мир, вы соглашаетесь с лицензионным соглашением мастерской Steam.", 
+		"ResourcePackPublishDescription": "Публикация пакета текстур загрузит его в мастерскую Steam. По умолчанию пакет текстур будет приватным и видимым только вам. Вы можете изменить его превью, название и описание по своему усмотрению в Steam, а после сделать его и вовсе общедоступным, когда будете готовы его опубликовать на весь мир. Публикуя этот мир, вы соглашаетесь с лицензионным соглашением мастерской Steam.", 
+		"SettingsPublicityPublic": "Публичный",
+		"SettingsPublicityFriendsOnly": "Только друзья",
+		"SettingsPublicityPrivate": "Приватный",
+		"SettingsPublicityDescriptionSharedNote": "Вы можете в любое время изменить доступ вашего контента в мастерской.",
+		"SettingsPublicityPublicDescription": "Ваш контент будет виден и доступен всем, как только он будет опубликован\n{$Workshop.SettingsPublicityDescriptionSharedNote}",
+		"SettingsPublicityFriendsOnlyDescription": "Ваш контент будет виден и доступен только вам и вашим друзьям, как только он будет опубликован\n$Workshop.SettingsPublicityDescriptionSharedNote}",
+		"SettingsPublicityPrivateDescription": "Ваш контент будет виден и доступен только вам, как только он будет опубликован\n{$Workshop.SettingsPublicityDescriptionSharedNote}",
+		"CategoryTitleDisclaimer": "Лицензионное соглашение",
+		"CategoryTitleTags": "Теги",
+		"CategoryTitlePublicity": "Видимость",
+		"SteamDisclaimer": "Отправляя данный контент, вы соглашаетесь с лицензионным соглашением мастерской Steam.",
+		"PreviewImagePathTitle": "Изображение:",
+		"PreviewImagePathEmpty": "Пусто",
+		"PreviewImagePathDescription": "Выберите изображение для превью этого контента\nэто изображение будет отображаться при просмотре в мастерской (максимальный размер 512х512)",
+		"EnterNewNameForImportedWorld": "Введите название мира:",
+		"InfoDescriptionDefault": "Пожалуйста, выберите, как ваш контент будет опубликован с помощью опций, приведенных ниже",
+		"SteamDisclaimerDescrpition": "Откройте лицензионное соглашение мастерской Steam\nПожалуйста, не загружайте контент, противоречащий этому соглашению",
+		"ReportIssue_CouldNotCreateTemporaryFolder": "Не удалось создать временную папку!",
+		"ReportIssue_CannotPublishZips": "Сжатие пакеты текстур не могут быть опубликованы в мастерской!",
+		"ReportIssue_FailedToLoadSubscribedFile": "Не удалось загрузить подписанный файл: {FilePath}! Причина: {Reason}",
+		"ReportIssue_CouldNotCreateResourcePackManifestFile": "Не удалось создать манифест пакета текстур! Причина: {Reason}",
+		"ReportIssue_FailedToPublish_Common": "Не удалось обубликовать контент в Steam!",
+		"ReportIssue_FailedToPublish_WithoutKnownReason": "{$Workshop.ReportIssue_FailedToPublish_Common} Код ошибки: {Reason}",
+		"ReportIssue_FailedToPublish_AccessDeniedBecauseUserDoesntOwnLicenseForApp": "{$Workshop.ReportIssue_FailedToPublish_Common} Если эта проблема повторяется, попробуйте перезагрузить Steam.",
+		"ReportIssue_FailedToPublish_InvalidParametersForPublishing": "{$Workshop.ReportIssue_FailedToPublish_Common} Возможно, вы изменили идентификатор приложения игры.",
+		"ReportIssue_FailedToPublish_CouldNotFindFolderToUpload": "{$Workshop.ReportIssue_FailedToPublish_Common} Возможно, отсутствует папка для публикуемого контента.",
+		"ReportIssue_FailedToPublish_SteamFileLockFailed": "{$Workshop.ReportIssue_FailedToPublish_Common} Не удалось инициализировать UGC Lock. Если эта проблема повторяется, попробуйте перезагрузить Steam.",
+		"ReportIssue_FailedToPublish_LimitExceeded": "{$Workshop.ReportIssue_FailedToPublish_Common} Превышен максимальный размер! Пожалуйста, убедитесь, что ваше превью имеет размер менее 1 МБ, а также, что на вашем облаке Steam достаточно места для его публикации.",
+		"ReportIssue_FailedToPublish_UserDidNotAcceptWorkshopTermsOfService": "{$Workshop.ReportIssue_FailedToPublish_Common} Вам нужно принять лицензионное соглашение мастерской Steam!",
+		"ReportIssue_FailedToPublish_ImageSizeIsTooLarge": "Изображение, что вы пытаетесь использовать должно быть размером 512х512 пкс или меньше!\nТекущий размер: {Width}x{Height}.",
+		"ReportLogsButton": "Логи",
+		"ReportLogsInitialMessage": "Здесь ничего нет"
+	},
+	"WorkshopTags": {
+		"AdventureWorlds": "Приключение",
+        "AdventureWorldsDescription": "Миры других игроков, где вы отправитесь в удивительное приключение по сценарию другого игрока.",
+
+		"GolfWorlds": "Гольф",
+		"GolfWorldsDescription": "Миры других игроков, где вы будете совершествовать свое мастерство игры в гольф.",
+
+		"AllItemsWorlds": "Все предметы",
+		"AllItemsWorldsDescription": "Миры, где вы сможете найти что угодно в сундуках.",
+
+		"StarterWorlds": "Начальный",
+		"StarterWorldsDescription": "Миры, где вы сможете легко начать ваше выживание.",
+
+		"JourneyWorlds": "Казуальный",
+		"JourneyWorldsDescription": "Миры для казуальных персонажей - прекрасные силы и куча веселья.",
+
+		"ClassicWorlds": "Классика",
+		"ClassicWorldsDescription": "Миры на основе классической ''Терки''.",
+
+		"ExpertWorlds": "Эксперт",
+		"ExpertWorldsDescription": "Миры на экспертной сложности - удача и слава, детка!",
+
+		"MasterWorlds": "Мастер",
+		"MasterWorldsDescription": "Миры, на мастере - только для мазохистов, ведь сложность зашкаливает.",
+
+		"ChallengeWorlds": "Испытание",
+		"ChallengeWorldsDescription": "Миры, бросающие вам челлендж в чем либо! От паркура до заковыристых головоломок!",
+
+		"CorruptionWorlds": "Искажение",
+		"CorruptionWorldsDescription": "Миры, искаженные злом.",
+
+		"CrimsonWorlds": "Кримзон",
+		"CrimsonWorldsDescription": "Миры, пораженные всепожирающим кримзоном.",
+
+		"SmallWorlds": "Маленький",
+		"SmallWorldsDescription": "Маленькие миры, компактные и уютные!",
+
+		"MediumWorlds": "Средний",
+		"MediumWorldsDescription": "Миры не большие и не маленькие, золотая середина!",
+
+		"LargeWorlds": "Большой",
+		"LargeWorldsDescription": "Огромные миры для огромной вечеринки!",
+
+		"OtherWorlds": "Другое",
+		"OtherWorldsDescription": "Миры для прочего. Не путать с потусторонними мирами!",
+
+		"FromTerrariaMods": "Из модов",
+		"FromTerrariaModsDescription": "Пакеты текстур с контентом, базирующимся на модах.",
+
+		"PopularCulture": "Поп культура",
+		"PopularCultureDescription": "Пакеты текстур, набитые популярными штуками.",
+
+		"FunSilly": "Веселье и глупости",
+		"FunSillyDescription": "Пакеты текстур со смешным и упоротым контентом. Найдете здесь любой мем!",
+
+		"Music": "Музыка",
+		"MusicDescription": "Пакеты текстур, изменяющие музыку Террария, давая ей новые краски.",
+
+		"LanguageTranslations": "Переводы",
+		"LanguageTranslationsDescription": "Пакеты текстур, корректирующие старые или добавляющие новые переводы (AWUTERRUS является модом, который изменяет код игры (Для корректной работы родов и обновлятора), из-за чего, он продолжит распространяться как архив с измененными файлами игры).",
+
+		"HighResolution": "Четкость",
+		"HighResolutionDescription": "Пакеты текстур, нацеленные на уменьшение количества пикселей на вашем экране.",
+
+		"Overhaul": "Переделка",
+		"OverhaulDescription": "Пакеты текстур, способные перевернуть Террарию с ног на голову!",
+
+		"Tweaks": "Твики",
+		"TweaksDescription": "Пакеты текстур, направленные на незначительные изменения в чем-либо.",
+
+		"OtherResourcePacks": "Другое",
+		"OtherResourcePacksDescription": "Пакеты текстур, нужные для других целей, например, для чего-то потустороннего.",
 	},
 	"Net": {
 		"ClientStatusComplete": "({0}) {1} {2}: Выполнено!",

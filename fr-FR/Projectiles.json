@@ -877,6 +877,13 @@
 		"Mace": "Massue",
 		"StardustPunch": "Gardien astral",
 		"TorchGod": "Le Dieu des torches",
-		"VampireFrog": "Grenouille vampirique"
+		"VampireFrog": "Grenouille vampirique",
+		"BoneWhip": "Claquement vertébral",
+		"DaybreakExplosion": "Explosion solaire",
+		"FlinxMinion": "Flinx",
+		"PrincessWeapon": "Résonance royale",
+		"SolarWhipSwordExplosion": "Explosion solaire",
+		"WandOfSparkingSpark": "{$ProjectileName.Spark}",
+		"StarCannonStar": "{$ProjectileName.FallingStar}"
 	}
 }

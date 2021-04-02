@@ -56,7 +56,19 @@
 		"Stardust": "Um guardião de pó das estrelas protegerá você dos inimigos próximos",
 		"Ninja": "20% de aumento na velocidade dos movimentos",
 		"Solar": "Escudos solares carregam com o tempo para proteger você. Eles também permitem que você corra\nUma carga é gasta para causar dano nos inimigos que você tocar\nCargas gastas explodem e causam dano nos inimigos",
-		"Turtle": "Quem ataca também sofre dano em dobro\nReduz o dano sofrido em 15%"
+		"Turtle": "Quem ataca também sofre dano em dobro\nReduz o dano sofrido em 15%",
+		"AdamantiteMelee": "20% de aumento na velocidade do ataque físico e dos movimentos",
+		"Bone": "10% de aumento na chance de ataque à distância crítico",
+		"Cactus": "Atacantes sofrem dano por espinhos de cactos",
+		"CrystalNinja": "Permite usar a corrida\n10% de aumento no dano e na chance de acerto crítico",
+		"Frost": "Os ataques físicos e à distância causam queimadura de gelo\nAumenta o dano por ataques físicos e à distância em 10%",
+		"Gladiator": "Oferece imunidade a recuos",
+		"HallowedSummoner": "Fique imune depois de atacar um inimigo,\ne aumente o número máximo de lacaios que você pode ter em 2",
+		"Molten": "Adicional de 10% de dano por ataques físicos,\nNão pode ser incendiado",
+		"MythrilMelee": "10% de aumento na chance de ataque físico crítico",
+		"Nebula": "Danos mágicos têm chance de gerar impulsos de reforços,\npegue os impulsos para obter reforços que se acumulam",
+		"SpectreHealing": "Reduz o dano por Magia em 40% e converte-o em força de cura\nO dano por magia causado a inimigos cura o jogador com menos vida restante",
+		"ObsidianOutlaw": "Aumenta o alcance do chicote em 50% e a velocidade em 35%,\nAumenta os danos causados por lacaios em 15%"
 	},
 	"BuffDescription": {
 		"AmmoBox": "20% de chance de não consumir munição",
@@ -175,7 +187,7 @@
 		"OnFire": "Lentamente perdendo a vida",
 		"PaladinsShield": "25% de danos sofridos serão redirecionados a outro jogador",
 		"Panic": "A velocidade de movimentação aumenta",
-		"ParryDamageBuff": "Aumento de 500% nos danos para o próximo ataque físico",
+		"ParryDamageBuff": "Aumento de 400% nos danos para o próximo ataque físico",
 		"PeaceCandle": "Taxa de criação de monstros menor",
 		"PetBunny": "Acho que ele quer sua cenoura",
 		"PetDD2Dragon": "Um coleciodragão está seguindo você",
@@ -372,7 +384,11 @@
 		"WellFed2": "Melhoria média em todas as estatísticas",
 		"WellFed3": "Grande melhoria em todas as estatísticas",
 		"EmpressBlade": "A Lâmina da Imperatriz lutará por você",
-		"StormTiger": "O tigre do deserto lutará ao seu lado"
+		"StormTiger": "O tigre do deserto lutará ao seu lado",
+		"FlinxMinion": "O flinx de neve lutará por você",
+		"Frostburn2": "Ou está bem quente ou bem frio. De qualquer maneira, machuca MUITO",
+		"OnFire3": "Lentamente perdendo a vida",
+		"WeaponImbueVenom": "Ataques físicos aplicam peçonha ácida em seus alvos"
 	},
 	"BuffName": {
 		"AmmoBox": "Caixa de Munição",
@@ -687,7 +703,12 @@
 		"WellFed2": "Muito satisfeito",
 		"WellFed3": "Extremamente satisfeito",
 		"EmpressBlade": "Terraprisma",
-		"StormTiger": "Tigre do Deserto"
+		"StormTiger": "Tigre do Deserto",
+		"FlinxMinion": "Flinx",
+		"Frostburn2": "Queimadura de Frio",
+		"OnFire3": "Fogo do Inferno",
+		"Venom": "Peçonha Ácida",
+		"WeaponImbueVenom": "Efeito da arma: Peçonha Ácida"
 	},
 	"MapObject": {
 		"Adamantite": "Adamantina",
@@ -895,7 +916,7 @@
 		"npc_BlueJellyfish": "{$CommonBestiaryFlavor.Jellyfish}",
 		"npc_FungiBulb": "{$CommonBestiaryFlavor.FungiBulb}",
 		"npc_Demolitionist": "Tome cuidado perto deste anão. O Especialista em Demolição é louco por explosões e vende itens perigosos que fazem “Bum!”.",
-		"npc_Demon": "Os demônios são a infantaria do Submundo. Ao contrário de seus irmãos mais fracos, conjuram magias sombrias em vez de magias infernais. ",
+		"npc_Demon": "Os demônios são a infantaria do Submundo. Ao contrário de seus irmãos mais fracos, conjuram magias sombrias em vez de magias infernais.",
 		"npc_DemonTaxCollector": "Condenado a uma pena eterna por suas ambições, este homem há muito tempo foi corrompido e tomou uma forma demoníaca.",
 		"npc_Derpling": "Estas pulgas grandes com cascos de safira não param de saltar. Elas são capazes de drenar todo o sangue de uma pessoa em segundos.",
 		"npc_Penguin": "{$CommonBestiaryFlavor.Penguin}",
@@ -944,7 +965,6 @@
 		"npc_Grasshopper": "Ele pula sobre grama alta em um único salto. Os peixes são relativamente atraídos por ele.",
 		"npc_ZombieSuperman": "{$CommonBestiaryFlavor.CostumeZombie}",
 		"npc_HornetHoney": "{$CommonBestiaryFlavor.Hornet}",
-		"npc_Grubby": "Melequento, mas satisfatório. Os peixes são especialmente atraídos por elas.",
 		"npc_Guide": "O Guia oferece conselhos úteis e ensina receitas de criação. Suas origens e sua ligação incomum com este mundo permanecem um mistério.",
 		"npc_HallowBoss": "Abaixo da cobertura de purificação do Sagrado vive uma deusa fada vingativa cujo maior objetivo é livrar a terra de toda e qualquer impureza.",
 		"npc_Harpy": "Mulheres aladas semi-humanas defendem seu território contra invasores. Para isso, os empalam com penas afiadíssimas.",
@@ -1119,7 +1139,6 @@
 		"npc_BloodZombie": "Quando são expostos por um longo período a uma Lua de Sangue, os zumbis se deformam e ficam amaldiçoados com um fluxo constante de sangue que jorra de sua carne podre.",
 		"npc_BoneLee": "Conta-se que há muitos séculos havia um clã de ninjas que se escondia nas sombras do mundo. Parece que eles estão mortos há muito tempo.",
 		"npc_BoneSerpentHead": "Dragões serpentinos poderosos já foram os mestres do inferno, mas há muito tempo perderam suas escamas de obsidiana. Uma carcaça esqueletal é tudo o que resta.",
-		"npc_BrainofCthulhu": "Um pedaço arrancado de Cthulhu, este ser inteligente repleto de agonia ajuda o Carmim para tentar vingar seu mestre.",
 		"npc_BrainScrambler": "Estes soldados de Marte empunham armas rudimentares de laser que disparam radiação perigosa de curto alcance. Por isso, usam capacetes protetivos.",
 		"npc_BunnySlimed": "É um coelhinho fantasiado de geleia? Ou uma geleia fantasiada de coelhinho? O Halloween pode ser bastante confuso.",
 		"npc_BunnyXmas": "Pela roupa, parece que o Papai Noel contratou alguns coelhinhos para serem seus ajudantes este ano.",
@@ -1355,7 +1374,13 @@
 		"npc_WyvernHead": "Uma criatura dracônica colossal liberta juntamente com os espíritos antigos. Domina os céus com seu poder sem igual.",
 		"npc_Yeti": "Um primata de temperamento difícil que vive nas regiões frias e nevadas do norte. Ele não gosta de festas, então veio atrapalhar a diversão.",
 		"npc_ZombieEskimo": "Zumbis de biomas de neve normalmente vestem muitas roupas de inverno. Não que isso ajude, porque o corpo dele continua frio como a morte.",
-		"npc_ZombieRaincoat": "Alguns zumbis não saem de casa sem capa de chuva. Eles ficam confortáveis e secos e buscam a carne humana independentemente do clima."
+		"npc_ZombieRaincoat": "Alguns zumbis não saem de casa sem capa de chuva. Eles ficam confortáveis e secos e buscam a carne humana independentemente do clima.",
+		"npc_Princess": "Tímida e inocente, esta jovem senhora vê o lado positivo de tudo e em todos. Ela aprecia todos os seus súditos, independentemente de seu passado.",
+		"npc_SeaSnail": "Esta lesma inusitadamente grande vive nas profundezas do oceano. Seu muco pode ser transformado em uma tintura roxa.",
+		"npc_TorchGod": "Uma divindade invisível, responsável pela chama eterna de uma tocha. Costuma ficar furiosa quando essas são colocadas em lugares ingratos.",
+		"npc_BrainofCthulhu": "Um pedaço arrancado de Cthulhu, este ser inteligente repleto de agonia ajuda o Carmim para tentar vingar seu mestre.",
+		"npc_Grubby": "Pegajoso, mas satisfatório! Os peixes são ligeiramente atraídos por eles.",
+		"npc_Sluggy": "Lentos e cobertos por um muco pegajoso. Os peixes são especialmente atraídos por eles."
 	},
 	"BestiaryInfo": {
 		"Attack": "Ataque",
@@ -1575,11 +1600,9 @@
 		"Godmode_Description": "Fique invulnerável a danos!",
 		"Godmode_Disabled": "Invencibilidade desativada",
 		"Godmode_Enabled": "Invencibilidade ativada",
-		"InfiniteItemSacrificeShortDescription": "Pesquisar {ItemName} consumirá esse item",
 		"InfiniteItemsCategory": "Pesquisar itens infinitos",
 		"InfinitePlacementRange_Disabled": "Alcance de posicionamento normal",
 		"InfinitePlacementRange_Enabled": "Alcance de posicionamento estendido",
-		"ItemWasJustUnlockedInfinitely": "Assim que {ItemName} for pesquisado o bastante, esse item ficará disponível infinitamente!",
 		"ModifyRainPower_Closed": "Abrir controle deslizante de chuva",
 		"ModifyRainPower_Opened": "Fechar controle deslizante de chuva",
 		"ModifyTimeRate_Closed": "Abrir controle deslizante de velocidade do tempo",
@@ -1640,7 +1663,13 @@
 		"CantUsePowerBecauseOfNoPermissionFromServer": "Você não tem permissão para usar este poder",
 		"PersonalCategory": "Poderes relacionados a você",
 		"PersonalCategoryClosed": "Abrir menu de poderes pessoais",
-		"PersonalCategoryOpened": "Fechar menu de poderes pessoais"
+		"PersonalCategoryOpened": "Fechar menu de poderes pessoais",
+		"TabAccessoriesMisc": "Equipamento",
+		"TabFurniture": "Móveis",
+		"TabTools": "Ferramentas",
+		"TabVanity": "Vaidade",
+		"InfiniteItemSacrificeShortDescription": "Pesquisar <item name> consumirá este item",
+		"ItemWasJustUnlockedInfinitely": "Assim que <item name> for pesquisado o bastante, esse item ficará disponível infinitamente!"
 	},
 	"EmojiCommand": {
 		"BiomeBeach": "/{$EmojiName.BiomeBeach}",
@@ -1787,7 +1816,8 @@
 		"WeatherRainbow": "/{$EmojiName.WeatherRainbow}",
 		"WeatherSnowstorm": "/{$EmojiName.WeatherSnowstorm}",
 		"WeatherStorming": "/{$EmojiName.WeatherStorming}",
-		"WeatherSunny": "/{$EmojiName.WeatherSunny}"
+		"WeatherSunny": "/{$EmojiName.WeatherSunny}",
+		"TownPrincess": "/{$EmojiName.TownPrincess}"
 	},
 	"EmojiName": {
 		"BiomeBeach": "praia",
@@ -1934,7 +1964,8 @@
 		"TownSanta": "noel",
 		"TownSkeletonMerchant": "comercianteesqueleto",
 		"TownTravellingMerchant": "caixeiroviajante",
-		"BossEmpressOfLight": "idl"
+		"BossEmpressOfLight": "idl",
+		"TownPrincess": "princesa"
 	},
 	"LoadingTips_Default": {
 		"1": "Outros jogadores podem saquear seus baús! Se você não confia neles, use um cofre ou um Porquinho, que têm armazenamento exclusivo para cada jogar.",
@@ -2043,7 +2074,9 @@
 		"97": "Nem todos os esqueletos são malvados. Alguns até vendem itens únicos para quem os encontra.",
 		"98": "Não sabe o que fazer a seguir? Veja o Guia de Conquistas para ter uma ideia!",
 		"99": "Caso um inimigo roube seu dinheiro depois que você morrer no Modo Perito, cace-o! Se derrotá-lo, você pode recuperar as moedas.",
-		"106": "A Bolsa do Vazio é um artefato mágico que armazena itens quando seu inventário estiver cheio."
+		"106": "A Bolsa do Vazio é um artefato mágico que armazena itens quando seu inventário estiver cheio.",
+		"13": "Você não sofrerá dano por queda se tiver uma Ferradura da Sorte. Procure por ela em baús no subterrâneo.",
+		"32": "Estrelas Cadentes costumam aparecer à noite. Obtenha 5 delas para criar um Cristal de Mana, que pode ser usado para aumentar sua Mana."
 	},
 	"WorldGeneration": {
 		"OceanSand": "Gerando areia do oceano"

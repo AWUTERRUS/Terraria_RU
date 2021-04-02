@@ -431,7 +431,7 @@
 		"ProximityMineIII": "Mina zbliżeniowa",
 		"ProximityMineIV": "Mina zbliżeniowa",
 		"PulseBolt": "Pulsujący pocisk",
-		"Puppy": "Młody",
+		"Puppy": "Szczeniak",
 		"PureSpray": "Czysty rozpylacz",
 		"PurificationPowder": "Proszek oczyszczający",
 		"PurpleCounterweight": "Przeciwwaga",
@@ -877,6 +877,13 @@
 		"Mace": "Kiścień",
 		"StardustPunch": "Strażnik pyłu gwiezdnego",
 		"TorchGod": "Bóg pochodni",
-		"VampireFrog": "Wampirza żaba"
+		"VampireFrog": "Wampirza żaba",
+		"BoneWhip": "Kręgarz",
+		"DaybreakExplosion": "Wybuch słoneczny",
+		"FlinxMinion": "Flinx",
+		"PrincessWeapon": "Królewski rezonans",
+		"SolarWhipSwordExplosion": "Wybuch słoneczny",
+		"WandOfSparkingSpark": "{$ProjectileName.Spark}",
+		"StarCannonStar": "{$ProjectileName.FallingStar}"
 	}
 }

@@ -14,16 +14,16 @@
 		"WorldDescriptionBalanced": "Le monde est en harmonie.",
 		"WorldDescriptionFairyTale": "Nous vivons dans un conte de fées.",
 		"Party": "Je pensais organiser une fête pour célébrer nos victoires du passé, et celles à venir.",
-		"AfterDD2Tier1": "Quand j'étais à Etheria, je me sentais vraiment déconnectée de {WorldName}. Ça fait du bien d'être de retour.",
 		"AfterDD2Tier2": "La Corruption a essayé de m'avoir quand j'étais à Etheria, mais j'ai réussi à utiliser ses pouvoirs contre l'armée de l'Ancien !",
 		"Graveyard1": "Je peux faire avec la corruption, mais l'air infâme de la mort ici fait même faner la fleur dans mes cheveux.",
 		"Graveyard2": "Cet endroit... J'entends le cri de la nature pour ceux qui sont morts ici.",
 		"Rain1": "L'eau du ciel permet à la nature de nettoyer la boue de nos ruisseaux.",
-		"Rain2": "Lorsqu'il pleut, de nombreux poissons acquièrent des propriétés mystiques.",
 		"Storm1": "Notre mère est en colère et souhaite brûler la saleté en abattant un pouvoir destructeur sur les cimes de nos arbres.",
 		"Storm2": "Ce n'est pas prudent de traverser à découvert sous les dangers foudroyants du ciel.",
 		"Windy1": "Le vent... il permet à la nature de balayer la poussière de la terre.",
-		"Windy2": "La furie de la nature retire les feuilles des arbres en ce jour."
+		"Windy2": "La furie de la nature retire les feuilles des arbres en ce jour.",
+		"AfterDD2Tier1": "Quand j'étais à Etheria, je me suis vraiment sentie déconnectée de {WorldName}. Ça fait du bien d'être de retour.",
+		"Rain2": "Lorsqu'il pleut, de nombreux poissons acquièrent des propriétés mystiques."
 	},
 	"DyeTraderSpecialText": {
 		"HasPlant_0": "Fantastique ! Tu m'as apporté un échantillon exquis des magnifiques couleurs et arômes du monde. En échange, je t'offre cette bouteille spéciale de teinture.",
@@ -192,7 +192,7 @@
 		"Storm1": "Je ne fais pas d'électrochocs, tu n'as qu'à aller t'asseoir sous un arbre !",
 		"Storm2": "Reste à l'intérieur ! J'ai déjà traité trop d'électrocutions aujourd'hui.",
 		"Windy1": "Il ne manquait plus qu'une brise comme ça ! Attention aux aiguilles qui volent.",
-		"Windy2": "Je cours après mes instruments depuis ce matin. Cette tempête me garde en forme !"
+		"Windy2": "Je cours après mes instruments médicaux depuis ce matin. Cette tempête me garde en forme !"
 	},
 	"WizardSpecialText": {
 		"Party": "Il est évident que mes fêtes sont magiques.",
@@ -249,12 +249,12 @@
 		"Party": "Les fêtes sont géniales pour que les gens s'éclatent, comme des bombes.",
 		"Graveyard1": "Je déteste ces endroits. Je ne peux pas tuer ce qui est déjà mort !",
 		"Graveyard2": "Si tu vois une activité douteuse dans ce brouillard, je n'ai rien à y voir.",
-		"Rain1": "J'ai entendu dire que des nuages te poursuivaient ! Montre-leur qui est le boss avec une de mes armes !",
 		"Rain2": "Des poissons volants ? J'appelle ça du tir à la cible !",
 		"Storm1": "Un pistolet foudroyant ? Je n'ai pas le temps pour ce genre de fantaisie. J'aime trop mes balles !",
 		"Storm2": "Si tu tires au bon moment, personne n'entendra les coups de feu avec l'orage.",
 		"Windy1": "J'essayais mon nouveau fusil, mais je ne faisais que rater ma cible avec ce vent !",
-		"Windy2": "Ne tire pas à l'aveuglette dans le vent !"
+		"Windy2": "Ne tire pas à l'aveuglette dans le vent !",
+		"Rain1": "J'ai entendu dire que des nuages te poursuivaient ! Montre-leur qui est le boss avec une de mes armes !"
 	},
 	"StylistSpecialText": {
 		"Party": "J'aurais pu me coiffer juste pour l'occasion, mais je préfère éclater des ballons avec mes ciseaux.",
@@ -285,7 +285,7 @@
 		"Graveyard2": "Comment puis-je pêcher là ?! Tu as perdu la tête ou tu es juste bête ?!",
 		"Rain1": "Oui ! Il pleut ! Maintenant, je peux te regarder te mouiller pendant que tu pêches pour moi !",
 		"Rain2": "Je vais toujours pêcher sous la pluie ! C'est pour ça que je porte ce chapeau !",
-		"Storm1": "Les orages sont le meilleur moment pour aller pêcher ! Et le plus dangereux ! C'est pour ça que je t'enverrai pêcher à ma place ! ",
+		"Storm1": "Les orages sont le meilleur moment pour aller pêcher ! Et le plus dangereux ! C'est pour ça que je t'enverrai pêcher à ma place !",
 		"Windy1": "Quand il vente, c'est généralement un bon moment pour pêcher, mais là, c'est trop ! Je me suis presque hameçonné les yeux !",
 		"Windy2": "Est-ce une sorte d'ouragan ?! Je me suis presque pris un dauphin !",
 		"BloodMoonFishing1": "Tu sais, il y a des trucs super effrayants qui rôdent dans l'eau pendant une Lune de sang ! Tu devrais aller voir ! Je te regarde d'ici !",
@@ -325,7 +325,6 @@
 		"Quest_GuideVoodooFish": "Ces démons du souterrain aiment vraiment les poupées vaudou, mais je crois qu'une de ces poupées a reçu bien trop de magie ! Elle s'est transformée en poisson et elle fait ce qu'elle veut. Je te demande d'aller m'en chercher une ! Fais attention à la lave en ébullition, parce que ça brûle et ça, ça ne m'aidera pas avec mon poisson !\n\n(Se trouve dans les grottes)",
 		"Quest_Wyverntail": "Je sais quelque chose que tu ne sais pas ! D'accord, je vais tout te dire. Une créature terrifiante vole parmi les étoiles ! Si, c'est vrai ! C'est une « vouivre » ! Mais, tu le savais déjà, n'est-ce pas ? Par contre, tu ne sais sûrement pas que cette créature s'élève comme un têtard ! En fait, c'est... une grenouille ! Saute sur l'occasion pour m'en rapporter une !\n\n(Se trouve dans les lacs célestes)",
 		"Quest_ZombieFish": "Tu ne vas pas me croire ! J'ai attrapé un poisson qui était déjà mort dans la forêt et de nuit ! Et il a essayé de me manger ! Je l'ai jeté et je suis parti en courant ! Mais j'aimerais le mettre dans l'armoire de quelqu'un pour voir sa réaction. Peux-tu aller me le chercher ?\n\n(Se trouve à la surface)",
-		"Quest_AmanitaFungifin": "J'ai trouvé un endroit spectaculaire couvert de champignons luisants ! Tout était bleu ! Je ramassais des champignons près d'un lac bleu scintillant lorsque l'un d'eux m'a mordu la main avant de s'enfuir en nageant ! Je veux lui redonner la monnaie de sa pièce et le mordre un bon coup ! Ce que je veux dire, c'est que tu dois le retrouver !\n\n(Se trouve dans les champs de champignons luisants)",
 		"Quest_Angelfish": "Connais-tu les îles magiques qui flottent dans le ciel ? Je parie que non ! On dit que des anges y vivent et je crois qu'ils ont des nageoires et des branchies et qu'ils nagent ! Tu devrais m'en attraper un !\n\n(Se trouve dans les lacs célestes)",
 		"Quest_BloodyManowar": "Aïe ! Ne t'approche pas ! Je me suis fait piquer par une méduse sanglante ! Au cas où vous ne sauriez pas ce que c'est, c'est la méduse la plus dangereuse du monde {WorldName} ! Va dans cet horrible carmin et essaie de l'attraper ! \n\n(Se trouve dans le carmin)",
 		"Quest_Bonefish": "En général, ça m'est bien égal de voir des arêtes qui flottent dans les eaux souterraines, mais celles-ci nagent ! Eh bien, croyais-tu que seuls les squelettes humains pouvaient s'agiter dans ce monde ? {WorldName} Attrape-le-moi pour que je le mette dans le lit de quelqu'un !\n\n(Se trouve dans le souterrain et les grottes)",
@@ -339,17 +338,18 @@
 		"Quest_Mudfish": "Attention où tu patauges dans les eaux de la jungle ! Pourquoi ? Non, je n'ai pas peur que tu te fasses dévorer par les piranhas. C'est juste que je ne veux pas que tu marches sur mon poisson préféré, le Vaseux ! J'aimerais bien que tu m'en rapportes un pour que je l'adopte !\n\n(Se trouve dans la jungle)",
 		"Quest_TropicalBarracuda": "Les piranhas et les requins sont moches ! Trop moches ! Sais-tu qu'il existe un très joli poisson ? Enfin, il peut quand même te croquer la tête. Je donnerai deux pièces de platine pour voir ça, d'ailleurs... Bref, j'aimerais que tu m'en attrapes un. Mais avant qu'il te croque la tête !\n\n(Se trouve à la surface de la jungle)",
 		"Quest_TundraTrout": "Te demandes-tu parfois pourquoi la surface des zones enneigées de {WorldName} ne gèlent jamais ? Pas moi. Par contre, les poissons gèlent ! Un poisson de glace serait une belle offrande au puissant et incroyable {Angler} ! Mon loyal sujet, rapporte-moi cette truite de la toundra au plus vite !\n\n(Se trouve à la surface de la toundra)",
-		"Quest_Dirtfish": "Le gros venait de mordre à l'hameçon quand un étrange zombie qui parle a émergé du lac de la forêt en répétant qu'il existait un poisson de terre « féroce » ! D'après lui, il peut asphyxier dix personnes comme lui, ou un truc du genre... Je le veux ! MAINTENANT !\n\n(Se trouve à la surface et dans le souterrain)",
-		"Quest_ScarabFish": "J'ai lu cette ancienne légende concernant un poisson qui ressemblerait à un scarabée magique ! C'est une sorte de coléoptère si tu préfères ! Où se trouve-t-il ? Où, d'après toi ? Dans le désert, bien sûr ! Ne me regarde pas comme ça... C'est vrai ! Il y a de l'eau là-bas ! J'aimerais y aller, mais je n'aime pas me faire picorer les yeux par les vautours. Alors... c'est toi qui vas y aller !\n\n(Se trouve dans le désert)",
-		"Quest_ScorpioFish": "Je suis sûr que quelqu'un, quelqu'un de très stupide, a essayé de te convaincre qu'il n'y avait pas d'eau dans le désert ! Cette personne avait complètement tort ! Il y a ce qu'on appelle une oasis, et c'est là qu'il y a de l'eau ! Devine ce qu'il se passe quand il y a de l'eau ?! Tout à fait, il y a des poissons ! Des poissons bizarres qui veulent piquer, pincer et faire tout plein de choses méchantes ! Un compagnon parfait en soi, et une mission sur mesure pour toi !\n\n(Se trouve dans le désert)",
-		"Quest_Slimefish": "Dans la forêt, les gelées sont vraiment dégoûtantes. Les Poigelées encore plus ! Je ne veux pas nager avec des gelées, alors sors-en une de l'eau pour moi !\n\n(Se trouve dans la forêt à la surface)"
+		"Quest_Slimefish": "Dans la forêt, les gelées sont vraiment dégoûtantes. Les Poigelées encore plus ! Je ne veux pas nager avec des gelées, alors sors-en une de l'eau pour moi !\n\n(Se trouve dans la forêt à la surface)",
+		"Quest_AmanitaFungifin": "J'ai trouvé cet endroit spectaculaire couvert de champignons luisants ! Tout était bleu ! Je ramassais des champignons près d'un lac bleu scintillant lorsque l'un d'eux m'a presque mordu avant de s'enfuir en nageant ! Je veux lui redonner la monnaie de sa pièce et le mordre un bon coup ! Ce que je veux dire, c'est que tu dois aller le chercher et me le rapporter !\n\n(Se trouve dans les champs de champignons luisants)",
+		"Quest_Dirtfish": "Je ramenais le gros poisson quand un étrange zombie qui parle est sorti du lac de la forêt en répétant qu'il existait un poisson « féroce » en terre ! Il dit qu'il peut asphyxier dix hommes de sa taille, ou un truc du genre... Je le veux ! MAINTENANT !\n\n(Se trouve à la surface et dans le souterrain)",
+		"Quest_ScarabFish": "J'ai lu cette ancienne légende concernant un poisson qui ressemblerait à un scarabée magique ! C'est une sorte de coléoptère si tu préfères ! Où se trouve-t-il ? Où, d'après toi ? Dans le désert, bien sûr ! Ne me regarde pas comme ça... C'est vrai ! Il y a de l'eau là-bas ! J'aimerais y aller, mais je n'aime pas me faire picorer les yeux par les vautours. Alors... c'est toi qui vas aller le chercher !\n\n(Se trouve dans le désert)",
+		"Quest_ScorpioFish": "Je suis sûr que quelqu'un, quelqu'un de très stupide, a essayé de te convaincre qu'il n'y avait pas d'eau dans le désert ! Cette personne avait complètement tort ! Il y a ce qu'on appelle une oasis, et c'est là qu'il y a de l'eau ! Devine ce qu'il se passe quand il y a de l'eau ?! Tout à fait, il y a des poissons ! Des poissons bizarres qui veulent piquer, pincer et faire tout plein de choses méchantes ! Un compagnon parfait pour moi, et une mission sur mesure pour toi !\n\n(Se trouve dans le désert)"
 	},
 	"AnglerChatter": {
 		"Chatter_1": "Pourquoi {Bartender} ne veut pas me vendre de bière ? Je veux y goûter ! Quel ronchon !",
 		"Chatter_10": "Je n'ai ni maman ni papa, mais j'ai plein de poissons ! C'est presque pareil !",
 		"Chatter_2": "Quoiiiiiiiii ?! Ne vois-tu pas que je suis en train de pêcher ?",
 		"Chatter_3": "J'ai assez de poisson ! Je n'ai pas besoin de toi pour le moment !",
-		"Chatter_4": "Il n'y a pas de chef cuisinier dans {WorldName}, alors je dois faire cuire le poisson moi-même !",
+		"Chatter_4": "Il n'y a pas de chef cuisinier dans {WorldName}, alors je dois faire cuire le poisson moi-même ! ",
 		"Chatter_5": "Hé ! Attention ! J'installe des pièges pour ma plus grosse farce de tous les temps ! Personne ne va la voir venir ! Ne dis rien !",
 		"Chatter_6": "Laisse un gamin te donner un conseil : ne mets pas ta langue sur un bloc de glace ! Oublie ce que je viens de dire, je veux te voir le faire !",
 		"Chatter_7": "As-tu déjà entendu parler d'un poisson qui aboie ? Pas moi, je voulais juste savoir !",
@@ -558,6 +558,7 @@
 		"Ben": "Ben",
 		"Bunnicula": "Lapicula",
 		"Donnie": "Donnie",
+		"Ears": "Ears",
 		"Inaba": "Inaba",
 		"Lilia": "Lilia",
 		"Lily": "Lily",
@@ -578,6 +579,7 @@
 		"Bella": "Bella",
 		"Damien": "Damien",
 		"Ember": "Braise",
+		"Esper": "Esper",
 		"Figment": "Figment",
 		"Gargoyle": "Gargouille",
 		"George": "George",
@@ -664,7 +666,9 @@
 		"Renne": "Renne",
 		"Roo": "Roo",
 		"Sooty": "Sooty",
-		"Trudy": "Trudy"
+		"Trudy": "Trudy",
+		"By-Tor": "By-Tor",
+		"Merlin": "Merlin"
 	},
 	"CatNames_White": {
 		"Angel": "Angel",
@@ -790,11 +794,10 @@
 		"Chatter_9": "Dans ce jeu, seuls les perdants obtiennent un score élevé.",
 		"Chatter_1": "Je ne suis pas du genre à crier et piquer une crise quand ma balle atterrit dans l'eau. Je garde mon sang froid, je reste calme et concentré jusqu'au prochain coup.",
 		"Chatter_10": "Sur le green, il faut rester calme, ne pas parler trop « fore » !",
-		"Chatter_11": "{Armsdealer} a pris mes balles de golf pour des munitions de son mousquet plusieurs fois.",
 		"Chatter_12": "D'après {Dryad}, j'assassine beaucoup de mes amis quand je tonds la pelouse. Mais il me faut un fairway pour mon terrain !",
 		"Chatter_13": "Si tu atterris sur le green, utilise un putter ! Ne frappe pas tes balles trop fort quand tu es si près.",
 		"Chatter_14": "Ne cours pas après les dangers aquatiques, reste sur les fairways et les greens que tu connais.",
-		"Chatter_15": "{?BloodMoon}Les taches de sang sur mon club ? Tu n'as pas vu les zombies dehors ?! ",
+		"Chatter_15": "{?BloodMoon}Les taches de sang sur mon club ? Tu n'as pas vu les zombies dehors ?!",
 		"Chatter_16": "{?BloodMoon}Je ne sais pas ce qui est le plus terrifiant, une lune de sang ou ma sœur pendant une lune de sang !",
 		"Chatter_17": "{?Rain}Jouer au golf par ce temps ?! Oui, si tu veux faire ton swing avec un bâton brûlant géant !",
 		"Chatter_2": "Hein ? Tu manges QUOI au petit déjeuner ?",
@@ -803,7 +806,8 @@
 		"Chatter_5": "Si le sable te donne des cauchemars, ton wedge sera ton attrape-rêves.",
 		"Chatter_6": "Je devrais vraiment me mettre à la pêche. Payer {Angler} pour récupérer mes balles dans l'eau vide mon porte-monnaie !",
 		"Chatter_7": "Pour frapper haut, frapper loin ou se débloquer ? Tout est dans le club. Choisis judicieusement !",
-		"Chatter_8": "Quand je t'ai proposé de sortir, je voulais dire les clubs, pas aller AU club."
+		"Chatter_8": "Quand je t'ai proposé de sortir, je voulais dire les clubs, pas aller AU club.",
+		"Chatter_11": "{Armsdealer} a pris mes balles de golf pour des munitions de mousquet plusieurs fois."
 	},
 	"GolferNames": {
 		"Name_1": "Lion Pines",
@@ -835,9 +839,9 @@
 		"Windy1": "Ce vent complique vraiment le parcours.",
 		"Windy2": "Un grand vent ajoute de la difficulté à une partie de golf, mais, là, c'est plutôt excessif.",
 		"FirstMeeting1": "Merci de m'avoir sauvé. Si j'étais resté bloqué plus longtemps, j'aurais pu faire une insolation !",
-		"FirstMeeting2": "Ah, merci ! Je suis coincé dans ce bac à sable depuis des jours. Heureusement que les cactus contiennent de l'eau.",
 		"Party_1": "J'ai du mal à me concentrer sur ce swing à cause de cette fête bruyante.",
-		"Party_2": "J'ai fait un ace ! C'est une bonne raison de faire la fête. Je vais ranger mes clubs et prendre une margarita."
+		"Party_2": "J'ai fait un ace ! C'est une bonne raison de faire la fête. Je vais ranger mes clubs et prendre une margarita.",
+		"FirstMeeting2": "Ah, merci ! Je suis coincé dans ce bac à sable depuis des jours. Heureusement qu'il y a de l'eau dans les cactus."
 	},
 	"GuideHelpTextSpecific": {
 		"Help_1159": "Si tu combines des lentilles à un autel carmin, tu pourrais trouver le moyen d'invoquer un monstre puissant. Mais attends que la nuit tombe avant de l'utiliser.",
@@ -954,7 +958,8 @@
 		"Jungle": "la Jungle",
 		"NormalUnderground": "le Souterrain",
 		"Ocean": "l'Océan",
-		"Snow": "la Neige"
+		"Snow": "la Neige",
+		"Mushroom": "les champignons luisants"
 	},
 	"TownNPCMood_BestiaryGirlTransformed": {
 		"Content": "Rrr... ça va.",
@@ -970,7 +975,8 @@
 		"NoHome": "GRAH ! Besoin MAISON ! MAINTENANT !",
 		"LikeBiome": "Dans {BiomeName}... Bien COURIR ! JOUER ! CHASSER ! Youpi !",
 		"HateBiome": "Gughhh. {BiomeName}... JE HAIS. MAUVAIS DÉCOR.",
-		"LoveBiome": "TERRITOIRE PRÉFÉRÉ... {BiomeName}. PLAISIR."
+		"LoveBiome": "TERRITOIRE PRÉFÉRÉ... {BiomeName}. PLAISIR.",
+		"LikeNPC_Princess": "{NPCName}… ROSE. BIEN."
 	},
 	"BestiaryGirlSpecialText": {
 		"Graveyard1": "Mes instincts reprennent le dessus. Il faut vraiment que je sorte d'ici !",
@@ -1011,7 +1017,8 @@
 		"LoveBiome": "J'adore {BiomeName}.",
 		"LoveNPC": "J'adore la compagnie de {NPCName}.",
 		"LoveSpace": "Oui ! Je vais pouvoir être seul avec mes poissons !",
-		"NoHome": "Je suis un enfant, tu dois me donner un foyer ! T'es débile ou quoi ?!"
+		"NoHome": "Je suis un enfant, tu dois me donner un foyer ! T'es débile ou quoi ?!",
+		"LikeNPC_Princess": "{NPCName} n'est pas un poisson et pourtant, elle ne m'agace pas ! C'est vraiment cool !"
 	},
 	"TownNPCMood_ArmsDealer": {
 		"Content": "Je vais bien, merci !",
@@ -1027,14 +1034,14 @@
 		"LoveBiome": "J'adore {BiomeName}.",
 		"LoveNPC": "Tu crois que {NPCName} s'intéresse un peu à moi ?",
 		"LoveSpace": "Voilà de quoi je veux parler : la vie privée !",
-		"NoHome": "Je n'ai nulle part où aller !"
+		"NoHome": "Je n'ai nulle part où aller !",
+		"LikeNPC_Princess": "Je ne m'y attendais pas du tout, mais {NPCName} sait manier un pistolet !"
 	},
 	"TownNPCMood_BestiaryGirl": {
 		"Content": "Je me sens bien, merci de demander !",
 		"DislikeBiome": "C'est, genre, bizarre d'avoir des instincts et tout, et {BiomeName} me donne vraiment envie de m'enfuir !",
 		"DislikeCrowded": "Je suis un peu anxieuse quand il y a trop de monde. Et, genre, ça ne me plaît pas.",
 		"DislikeNPC": "Je n'aime pas la cruauté de {NPCName} !",
-		"FarFromHome": "J'ai un peu, euh, le mal du pays. Et je dois nourrir mes animaux !",
 		"HateBiome": "Genre, {BiomeName} empeste le genre de sorts que ce petit renard avait, celui qui m'a mordue !",
 		"HateCrowded": "Aah ! Je déteste me faire du souci pour tous ces gens !",
 		"HateNPC": "Je déteste vraiment ce que {NPCName} fait aux animaux !",
@@ -1043,7 +1050,9 @@
 		"LoveBiome": "J'adore {BiomeName}.",
 		"LoveNPC": "Je ne peux pas l'expliquer. J'ai comme un faible pour {NPCName}. C'est la queue, tu penses ?",
 		"LoveSpace": "J'adore avoir mon chez-moi ! C'est absolument génial !",
-		"NoHome": "Genre, je ne vais pas juste aller vivre dans une tanière. Il me faut une maison !"
+		"NoHome": "Genre, je ne vais pas juste aller vivre dans une tanière. Il me faut une maison !",
+		"LikeNPC_Princess": "Genre, {NPCName} a demandé à ses sujets de trouver un moyen de briser ma malédiction de renard ! Ouiii !",
+		"FarFromHome": "J'ai un peu, euh, le mal du pays. Et je dois nourrir mes animaux !"
 	},
 	"TownNPCMood_Clothier": {
 		"Content": "Et puis, qu'est-ce qui est normal ?",
@@ -1059,7 +1068,8 @@
 		"LoveBiome": "J'adore {BiomeName}.",
 		"LoveNPC": "{NPCName} ? Je n'ai jamais rien vu d'aussi délicieux.",
 		"LoveSpace": "Je ne suis pas un homme populaire, mais je sais ce qu'est le calme.",
-		"NoHome": "Pas de maison du tout ? Je ne vais pas être victime d'abus criminels !"
+		"NoHome": "Pas de maison du tout ? Je ne vais pas être victime d'abus criminels !",
+		"LikeNPC_Princess": "Il n'existe pas plus grande joie que de voir le monde comme {NPCName} le voit !"
 	},
 	"TownNPCMood_Cyborg": {
 		"Content": "Toutes les fonctions neurales semblent fonctionner normalement.",
@@ -1075,7 +1085,8 @@
 		"LoveBiome": "J'adore {BiomeName}.",
 		"LoveNPC": "J'adore la compagnie de {NPCName}.",
 		"LoveSpace": "Zéro signe de vie à proximité détecté. C'est un coup de chance.",
-		"NoHome": "Erreur 404 : modalités de vie introuvables."
+		"NoHome": "Erreur 404 : modalités de vie introuvables.",
+		"LikeNPC_Princess": "{NPCName} analysée : forme de vie de carbone la plus complète jamais enregistrée."
 	},
 	"TownNPCMood_DD2Bartender": {
 		"Content": "Je vis un rêve.",
@@ -1091,7 +1102,8 @@
 		"LoveBiome": "J'adore {BiomeName}.",
 		"LoveNPC": "{NPCName} boit beaucoup, j'adore !",
 		"LoveSpace": "Enfin un peu de tranquillité... en tant que barman, c'est un luxe !",
-		"NoHome": "Je ne me sens vraiment pas à ma place sans bar à essuyer."
+		"NoHome": "Je ne me sens vraiment pas à ma place sans bar à essuyer.",
+		"LikeNPC_Princess": "{NPCName} serait une super dirigeante d'où je viens aussi."
 	},
 	"TownNPCMood_Demolitionist": {
 		"Content": "Eh bien, je ne suis pas d'humeur à exploser aujourd'hui !",
@@ -1107,7 +1119,8 @@
 		"LoveBiome": "J'adore {BiomeName}.",
 		"LoveNPC": "J'adore comment {NPCName} peut s'occuper d'un conteneur de boules de feu !",
 		"LoveSpace": "Ah, il n'y a personne – Je peux tester mes nouvelles bombes sans créer de cimetière !",
-		"NoHome": "Je n'ai nulle part où vivre, ai-je fait exploser ma dernière résidence ?"
+		"NoHome": "Je n'ai nulle part où vivre, ai-je fait exploser ma dernière résidence ?",
+		"LikeNPC_Princess": "QUOI... {NPCName} ? C'est une nouvelle marque de dynamite ? Oh, ELLE, oui, c'est une bonne fille !"
 	},
 	"TownNPCMood_Dryad": {
 		"Content": "Tout est calme, ne chamboulez pas tout.",
@@ -1123,7 +1136,8 @@
 		"LoveBiome": "J'adore {BiomeName}.",
 		"LoveNPC": "J'adore la compagnie de {NPCName}.",
 		"LoveSpace": "La solitude est parfois agréable, ça donne l'espace nécessaire pour croître et respirer.",
-		"NoHome": "Toute la nature est mon chez-moi, mais une maison ne me ferait pas de mal."
+		"NoHome": "Toute la nature est mon chez-moi, mais une maison ne me ferait pas de mal.",
+		"LikeNPC_Princess": "{NPCName} apporte ordre et paix à quiconque réside dans ce monde."
 	},
 	"TownNPCMood_DyeTrader": {
 		"Content": "Moi ? Je vais bien, je vais bien.",
@@ -1139,7 +1153,8 @@
 		"LoveBiome": "J'adore {BiomeName}.",
 		"LoveNPC": "J'adore la compagnie de {NPCName}.",
 		"LoveSpace": "Oh, cet endroit est assez calme pour dormir comme un sultan !",
-		"NoHome": "Non, non, ça ne va pas aller, il me faut un endroit à moi."
+		"NoHome": "Non, non, ça ne va pas aller, il me faut un endroit à moi.",
+		"LikeNPC_Princess": "Les teintes de la robe de {NPCName} sont les plus vives et intenses que j'ai jamais vues !"
 	},
 	"TownNPCMood_GoblinTinkerer": {
 		"Content": "Les sentiments sont actuellement nominaux.",
@@ -1155,7 +1170,8 @@
 		"LoveBiome": "J'adore {BiomeName}.",
 		"LoveNPC": "{NPCName} fait mal-fonctionner mon centre cardiaque, il semble que la sensation me plaise !",
 		"LoveSpace": "Parfait, le manque de voisins agaçants répond parfaitement à mes besoins.",
-		"NoHome": "Les gobelins n'ont normalement pas besoin de belles maisons, mais je ne suis pas un gobelin normal."
+		"NoHome": "Les gobelins n'ont normalement pas besoin de belles maisons, mais je ne suis pas un gobelin normal.",
+		"LikeNPC_Princess": "{NPCName} aime mes inventions et dit que tous les gobelins aimables sont les bienvenus !"
 	},
 	"TownNPCMood_Golfer": {
 		"Content": "Je vais bien !",
@@ -1171,7 +1187,8 @@
 		"LoveBiome": "J'adore {BiomeName}.",
 		"LoveNPC": "Opinion non populaire : j'aime bien la compagnie de {NPCName}. Je peux récupérer mes balles dans les obstacles d'eau !",
 		"LoveSpace": "Rien de mieux que tout cet espace pour soi.",
-		"NoHome": "J'ai besoin d'un endroit où accrocher mes clubs."
+		"NoHome": "J'ai besoin d'un endroit où accrocher mes clubs.",
+		"LikeNPC_Princess": "J'ai essayé d'apprendre à {NPCName} quelques techniques de golf, mais c'est elle qui m'a éduqué ! Elle me plaît."
 	},
 	"TownNPCMood_Guide": {
 		"Content": "Je me sens plutôt bien.",
@@ -1187,7 +1204,8 @@
 		"LoveBiome": "J'adore {BiomeName}.",
 		"LoveNPC": "J'adore la compagnie de {NPCName}.",
 		"LoveSpace": "Obtenir cet espace rien que pour moi... J'apprécie vraiment.",
-		"NoHome": "J'ai l'habitude de ne pas avoir de chez-moi, mais ça ne me gênerait pas d'en avoir un."
+		"NoHome": "J'ai l'habitude de ne pas avoir de chez-moi, mais ça ne me gênerait pas d'en avoir un.",
+		"LikeNPC_Princess": "Avec {NPCName} dans les environs, je me sens bien, comme si j'étais enfin libéré d'une malédiction."
 	},
 	"TownNPCMood_Mechanic": {
 		"Content": "Tout fonctionne bien – oh, moi ? Oui, je vais bien !",
@@ -1203,7 +1221,8 @@
 		"LoveBiome": "J'adore {BiomeName}.",
 		"LoveNPC": "Umm...{NPCName} me fait battre le cœur plus vite, je dois me faire examiner !",
 		"LoveSpace": "Parfait, il n'y a personne qui gêne la construction d'infrastructures.",
-		"NoHome": "J'ai besoin d'une sorte de structure pour faire passer ces câbles."
+		"NoHome": "J'ai besoin d'une sorte de structure pour faire passer ces câbles.",
+		"LikeNPC_Princess": "{NPCName} a démarré une de mes pompes avec les fils, je suis super impressionnée !"
 	},
 	"TownNPCMood_Merchant": {
 		"Content": "J'ai un sentiment de réussite ! Tu veux acheter quelque chose ?",
@@ -1219,7 +1238,8 @@
 		"LoveBiome": "J'adore {BiomeName}.",
 		"LoveNPC": "J'adore la compagnie de {NPCName}.",
 		"LoveSpace": "C'est agréable d'avoir cette intimité pour stocker mes marchandises.",
-		"NoHome": "Je n'ai nulle part où installer une boutique."
+		"NoHome": "Je n'ai nulle part où installer une boutique.",
+		"LikeNPC_Princess": "{NPCName} pourrait acheter toute ma boutique ! C'est agréable de parler avec elle aussi."
 	},
 	"TownNPCMood_Nurse": {
 		"Content": "Mes signes vitaux sont normaux, si c'est ce que tu veux savoir.",
@@ -1235,7 +1255,8 @@
 		"LoveBiome": "J'adore {BiomeName}.",
 		"LoveNPC": "Quoi ? {NPCName} ? Je n'ai pas de faible ! Non ! Tais-toi !",
 		"LoveSpace": "Ces logements sont fantastiques, j'adore tout cet espace personnel.",
-		"NoHome": "Pft, ne pas avoir une vraie maison me met VRAIMENT de mauvaise humeur."
+		"NoHome": "Pft, ne pas avoir une vraie maison me met VRAIMENT de mauvaise humeur.",
+		"LikeNPC_Princess": "J'ai accidentellement luxé l'épaule de {NPCName} pendant un examen et ELLE s'est excusée pour le désagrément !"
 	},
 	"TownNPCMood_Painter": {
 		"Content": "Oui, je suis peut-être de bonne humeur. Et alors ?",
@@ -1251,7 +1272,8 @@
 		"LoveBiome": "J'adore {BiomeName}.",
 		"LoveNPC": "J'aimerais vraiment peindre {NPCName}... pour ses couleurs vives, bien entendu !",
 		"LoveSpace": "Cet espace de vie serein me donne tout le calme qu'il me faut pour ma peinture murale.",
-		"NoHome": "J'ai nulle part où aller !"
+		"NoHome": "J'ai nulle part où aller !",
+		"LikeNPC_Princess": "{NPCName} m'a demandé de peindre une peinture murale sur le toit de sa salle du trône !"
 	},
 	"TownNPCMood_PartyGirl": {
 		"Content": "Je suis dans ma plus grande forme festive !",
@@ -1267,7 +1289,8 @@
 		"LoveBiome": "J'adore {BiomeName}.",
 		"LoveNPC": "J'adore comment {NPCName} m'éblouit dans mes fêtes.",
 		"LoveSpace": "C'est tout à moi ? Je vais devoir organiser la PLUS GROSSE fête... pour moi-même !",
-		"NoHome": "Je suis prête à faire la fête, mais je n'ai pas de maison pour l'after."
+		"NoHome": "Je suis prête à faire la fête, mais je n'ai pas de maison pour l'after.",
+		"LikeNPC_Princess": "OUI, {NPCName} adore le rose et ce qui brille et scintille, ELLE ADORE FAIRE LA FÊTE ! "
 	},
 	"TownNPCMood_Pirate": {
 		"Content": "Yarr. Je suis en super forme !",
@@ -1281,8 +1304,10 @@
 		"LikeBiome": "C'est bien ça, matelot, {BiomeName} est mon chez-moi !",
 		"LikeNPC": "Har har ! Ça me plaît comment {NPCName} apporte le meilleur rhum.",
 		"LoveBiome": "J'adore {BiomeName}.",
-		"LoveSpace": "C'est comme si j'avais mon galion à moi, matelot !",
-		"NoHome": "La pleine mer, c'est ma vraie maison, mais si je m'enclave un bout de temps... il me faut un abri."
+		"NoHome": "La pleine mer, c'est ma vraie maison, mais si je m'enclave un bout de temps... il me faut un abri.",
+		"LikeNPC_Princess": "Yarr, {NPCName} rapporterait gros en mer… je plaisante, je l'adore.",
+		"LoveNPC": "Ohé, je vais prendre {NPCName} sous mon aile, marin d'eau douce. Ça me plaît d'éduquer des louveteaux de mer.",
+		"LoveSpace": "C'est comme si j'avais mon galion à moi, matelot !"
 	},
 	"TownNPCMood_SantaClaus": {
 		"Content": "Je suis guilleret !",
@@ -1298,7 +1323,8 @@
 		"LoveBiome": "J'adore cet endroit ! Ça te surprend ? Qui aurait pu croire que {BiomeName} me plairait ?",
 		"LoveNPC": "J'adore la compagnie de {NPCName}.",
 		"LoveSpace": "Ho ho ho ! C'est juste moi et mes elfes, un endroit parfait pour mon atelier.",
-		"NoHome": "Je ne peux pas juste retourner au pôle Nord quand ça me chante, ho ho ho ! Tu penses pouvoir me trouver une maison temporaire ?"
+		"NoHome": "Je ne peux pas juste retourner au pôle Nord quand ça me chante, ho ho ho ! Tu penses pouvoir me trouver une maison temporaire ?",
+		"LikeNPC_Princess": "Ho ho ho, {NPCName} est certainement en haut de la liste des enfants sages. "
 	},
 	"TownNPCMood_Steampunker": {
 		"Content": "Tout va bien.",
@@ -1314,7 +1340,8 @@
 		"LoveBiome": "J'adore {BiomeName}.",
 		"LoveNPC": "J'adore comment {NPCName} est unique, c'est une personne super intéressante, remarquable !",
 		"LoveSpace": "Il y a beaucoup de place pour moi et mes machines à vapeur !",
-		"NoHome": "Un appartement pour attendre serait pratique."
+		"NoHome": "Un appartement pour attendre serait pratique.",
+		"LikeNPC_Princess": "La joyeuse {NPCName} s'est portée volontaire pour tester mon nouveau téléporteur, j'aime les assistants enthousiastes !"
 	},
 	"TownNPCMood_Stylist": {
 		"Content": "Je me sens fraîche et dispose aujourd'hui.",
@@ -1330,7 +1357,8 @@
 		"LoveBiome": "J'adore {BiomeName}.",
 		"LoveNPC": "{NPCName} est d'une beauté... si exotique... Je crois que je suis amoureuse...",
 		"LoveSpace": "Formidable, je peux rester seule et étudier ma technique sans interruption.",
-		"NoHome": "Désolée, je ne peux pas coiffer sans lieu où installer ma station."
+		"NoHome": "Désolée, je ne peux pas coiffer sans lieu où installer ma station.",
+		"LikeNPC_Princess": "Je ne peux même pas toucher les cheveux de {NPCName}, ils sont trop parfaits !"
 	},
 	"TownNPCMood_TaxCollector": {
 		"Content": "Quoi ? Je SUIS de bonne humeur.",
@@ -1346,7 +1374,8 @@
 		"LoveBiome": "J'adore {BiomeName}.",
 		"LoveNPC": "J'admire énormément {NPCName}. Quiconque connaît la vraie valeur de l'argent obtient mon plus grand respect !",
 		"LoveSpace": "Enfin, l'isolement de ces misérables paysans !",
-		"NoHome": "Comment se fait-il qu'un homme riche comme moi n'ait pas de maison ? C'est scandaleux !"
+		"NoHome": "Comment se fait-il qu'un homme riche comme moi n'ait pas de maison ? C'est scandaleux !",
+		"LikeNPC_Princess": "{NPCName} ne devrait pas payer d'impôts, c'est la princesse… mais elle a insisté."
 	},
 	"TownNPCMood_Truffle": {
 		"Content": "Je suis plutôt content, vu la situation.",
@@ -1362,7 +1391,8 @@
 		"LoveBiome": "J'adore {BiomeName}.",
 		"LoveNPC": "J'adore que {NPCName} puisse me parler sans mystérieusement avoir faim d'un coup.",
 		"LoveSpace": "J'adore avoir autant d'espace pour moi. Qu'est-ce qu'il y a de si drôle ?",
-		"NoHome": "J'ai besoin d'un endroit où je me sente en sécurité et bienvenu."
+		"NoHome": "J'ai besoin d'un endroit où je me sente en sécurité et bienvenu.",
+		"LikeNPC_Princess": "{NPCName} n'essaie pas de me manger, c'est une bonne chose."
 	},
 	"TownNPCMood_WitchDoctor": {
 		"Content": "Je suis l'incarnation du contentement.",
@@ -1378,7 +1408,8 @@
 		"LoveBiome": "J'adore {BiomeName}.",
 		"LoveNPC": "J'adore la compagnie de {NPCName}.",
 		"LoveSpace": "Une énergie intense circule sans entraves provenant de la présence voisine, c'est très agréable.",
-		"NoHome": "Une hutte suffirait. Tout mon voisinage n'accepte pas la tranquillité."
+		"NoHome": "Une hutte suffirait. Tout mon voisinage n'accepte pas la tranquillité.",
+		"LikeNPC_Princess": "Gentille envers mon peuple, {NPCName} l'est. Très apprécié. "
 	},
 	"TownNPCMood_Wizard": {
 		"Content": "Je me sens magique.",
@@ -1394,6 +1425,105 @@
 		"LoveBiome": "J'adore {BiomeName}.",
 		"LoveNPC": "J'adore avoir tant de choses à discuter avec {NPCName}.",
 		"LoveSpace": "Ça me rappelle le bon vieux temps, à s'exercer à la magie dans une tour au milieu de nulle part !",
-		"NoHome": "Où est ma maison ? Où suis-je ? Qui es-tu ? Qui suis-je ?"
+		"NoHome": "Où est ma maison ? Où suis-je ? Qui es-tu ? Qui suis-je ?",
+		"LikeNPC_Princess": "{NPCName} ? Nous avons une princesse ? Fascinant, elle semble gentille."
+	},
+	"PrincessChatter": {
+		"Chatter_1": "J'apprécie vraiment tout ce que tu as fait pour ces terres ! Merci !",
+		"Chatter_11": "Le rose est la plus jolie couleur qu'on puisse imaginer ! ",
+		"Chatter_13": "Um… être une princesse peut-être si calme parfois, alors je me suis trouvé des passe-temps ! ",
+		"Chatter_14": "Je suis si contente de pouvoir enfin parcourir le monde et rencontrer des gens !",
+		"Chatter_15": "Même si j'adore les gens, je suis assez timide. Il me faut un certain temps pour briser la glace…",
+		"Chatter_16": "{?BloodMoon}Les rivières sont rouges, tout le monde semble terriblement irrité, hmm… c'est une nuit éprouvante en effet !",
+		"Chatter_17": "{?!Day}Les étoiles la nuit me rappellent les paillettes sur une magnifique robe noire. Je vais devoir en commander une !",
+		"Chatter_2": "Les gobelins sont si mignons ! Ils sont petits avec leurs petites oreilles pointues et leurs couleurs différentes !",
+		"Chatter_5": "Ma robe te plaît ? Ouah, merci ! Je viens de la coudre.",
+		"Chatter_6": "Je suis fabuleusement reconnaissante d'avoir mes sujets !",
+		"Chatter_8": "Hmm… tu penses que {Pirate} pourra racheter certains de ses vieux amis marins aussi ?",
+		"Chatter_10": "{?PumpkingDefeated}Le Potiroi peut être assez hypocrite, apparemment. Je n'abandonnerai pas les efforts de paix avec son peuple terrifiant !",
+		"Chatter_12": "{?DukeFishronDefeated}J'ai rencontré un duc sur la plage un jour. Il avait un air de loup de mer et il était malpoli !",
+		"Chatter_3": "{?GolemDefeated}J'ai essayé de caresser un Lihzahrd une fois. Erm… Ça ne l'a pas dérangé du tout !",
+		"Chatter_4": "{?MartiansDefeated}J'aimerais bien que les Martiens soient un peu plus gentils. Notre monde reçoit rarement des visiteurs !",
+		"Chatter_7": "{?FrostLegionDefeated}Ne t'en fais pas ! Je suis bien au courant du problème du peuple des neiges avec le crime organisé.",
+		"Chatter_9": "{?IceQueenDefeated}J'ai bien peur que la diplomatie n'ait pas fonctionné avec la Reine des glaces. Elle est vraiment très froide ! Hé, hé !"
+	},
+	"PrincessNames": {
+		"Ai": "Ai",
+		"Alice": "Alice",
+		"Aria": "Aria",
+		"Ariel": "Ariel",
+		"Belle": "Belle",
+		"Charlotte": "Charlotte",
+		"Christina": "Christina",
+		"Elitia": "Elitia",
+		"Emilia": "Emilia",
+		"Faye": "Faye",
+		"Flora": "Flora",
+		"Hikari": "Hikari",
+		"Hime": "Hime",
+		"Liselotte": "Liselotte",
+		"Lucia": "Lucia",
+		"Momo": "Momo",
+		"Rosetta": "Rosetta",
+		"Sophia": "Sophia",
+		"Theresa": "Theresa",
+		"Tiara": "Diadème",
+		"Yuuki": "Yuuki"
+	},
+	"PrincessSpecialText": {
+		"Graveyard1": "Um… c'est un peu effrayant dehors. Je vais plutôt me faire un thé.",
+		"Graveyard2": "C'était quoi ce bruit ? Hm, je ne devrais peut-être pas m'inquiéter !",
+		"Party": "Une fête ? Comme… un festival ? J'ADORE LES FESTIVALS ! Tellement de rose ! Tellement de paillettes ! C'est si joyeux !!",
+		"Rain1": "Il y a quelque chose dans la pluie qui me donne un sentiment de calme.",
+		"Rain2": "J'adore quand il pleut. C'est apaisant.",
+		"Storm1": "Um… la tempête me paraît très intense. Mais j'aime le chaos.",
+		"Storm2": "Fais attention si tu vas dehors, la tempête est très forte !",
+		"Windy1": "Oups ! Je ferais mieux de tenir mon diadème, il y a beaucoup de vent aujourd'hui !!",
+		"Windy2": "C'est assurément une journée parfaite pour faire du cerf-volant, n'est-ce pas ?"
+	},
+	"TownNPCMood_Princess": {
+		"Content": "Tout est bien sous contrôle, mon loyal sujet !",
+		"DislikeBiome": "Je n'aime pas {BiomeName}.",
+		"DislikeCrowded": "Résider près de mes sujets m'apporte de la joie. Je comprends que d'autres soient plus réticents, par contre.",
+		"DislikeNPC": "Je ne déteste pas {NPCName}.",
+		"FarFromHome": "Euh… Je semble m'être aventurée un peu loin ! Ça te dit de m'accompagner pour une ballade ?",
+		"HateBiome": "Mmm ! Cet endroit aurait bien besoin d'une réno ! Ça n'est pas vraiment habitable, encore moins par un membre de la famille royale !",
+		"HateCrowded": "J'ADORE être entourée, mais je ne supporterais pas qu'il y ait des mécontents par manque de place.",
+		"HateLonely": "Euh… Je me sens un peu seule, puis-je résider plus près de mon peuple ?",
+		"HateNPC": "Je ne peux pas détester {NPCName}.",
+		"LikeBiome": "Les fleurs sont agréables, les collines sont jolies, le sable est chaud. Tout endroit est magnifique quand on est entouré d'amis !",
+		"LikeNPC": "J'aime bien {NPCName}.",
+		"LoveBiome": "J'adore {BiomeName}.",
+		"LoveNPC": "J'adore {NPCName}.",
+		"LoveNPC_Angler": "{NPCName} est tellement gentil, il me propose toujours d'aller à la pêche !",
+		"LoveNPC_ArmsDealer": "{NPCName} est sentimental au fond !",
+		"LoveNPC_BestiaryGirl": "{NPCName} me laisse toujours jouer avec ses animaux, j'adore !",
+		"LoveNPC_Clothier": "{NPCName} a l'air si triste parfois, mais il est très gentil avec moi !",
+		"LoveNPC_Cyborg": "{NPCName} est trop cool, il semble tout savoir !",
+		"LoveNPC_DD2Bartender": "{NPCName} est d'un monde complètement différent, c'est intéressant !",
+		"LoveNPC_Demolitionist": "{NPCName} m'éclate tout simplement, ha ha !",
+		"LoveNPC_Dryad": "{NPCName} est vraiment proche de la nature, j'adore !",
+		"LoveNPC_DyeTrader": "{NPCName} m'aide toujours à choisir la meilleure couleur pour mes robes !",
+		"LoveNPC_GoblinTinkerer": "{NPCName} fabrique les trucs les plus chouettes !",
+		"LoveNPC_Guide": "{NPCName} est un homme très gentil !",
+		"LoveNPC_Mechanic": "{NPCName} peut réparer à peu près tout, je l'admire !",
+		"LoveNPC_Merchant": "{NPCName} me donne toujours ce dont j'ai besoin, gratuitement !",
+		"LoveNPC_Nurse": "{NPCName} m'aide toujours à me sentir mieux quand je vais mal !",
+		"LoveNPC_Painter": "{NPCName} illumine vraiment cet endroit avec son art !",
+		"LoveNPC_PartyGirl": "{NPCName} est toujours au cœur de la fête !",
+		"LoveNPC_Pirate": "{NPCName} est toujours partant pour une histoire captivante de pirates !",
+		"LoveNPC_Princess": "{NPCName} est un petit peu troublante, mais adorable !",
+		"LoveNPC_Steampunker": "{NPCName} est ma partenaire préférée pour le thé !",
+		"LoveNPC_Stylist": "{NPCName} donne les meilleurs conseils capillaires, elle est géniale !",
+		"LoveNPC_TaxCollector": "{NPCName} est terriblement incompris, il est très gentil avec moi !",
+		"LoveNPC_TownBunny": "{NPCName} est vraiment adorable !",
+		"LoveNPC_TownCat": "{NPCName} est vraiment adorable !",
+		"LoveNPC_TownDog": "{NPCName} est vraiment adorable !",
+		"LoveNPC_Truffle": "{NPCName} est très marrant !",
+		"LoveNPC_WitchDoctor": "{NPCName} offre une perspective si unique, ça me fait réfléchir !",
+		"LoveNPC_Wizard": "{NPCName} est très sage, j'ai confiance en lui et ses décisions !",
+		"NoHome": "Il semble que je n'ai pas de logement. Si je peux me permettre, as-tu du rose ?",
+		"LoveNPC_Golfer": "La passion de {NPCName} pour le golf m'inspire !",
+		"LoveNPC_SantaClaus": "{NPCName} est si joyeux, je veux juste lui faire un cadeau !"
 	}
 }

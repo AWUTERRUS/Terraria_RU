@@ -470,7 +470,7 @@
 		"Grubby": "Larva",
 		"LunarTowerNebula": "Colonna della nebulosa",
 		"LunarTowerSolar": "Colonna solare",
-		"LunarTowerStardust": "Colonna di polvere di stella",
+		"LunarTowerStardust": "Colonna polvere di stella",
 		"LunarTowerVortex": "Colonna del vortice",
 		"MartianProbe": "Sonda marziana",
 		"MartianSaucer": "Disco volante marziano",
@@ -642,7 +642,7 @@
 		"RockGolem": "Golem di pietra",
 		"Seagull": "Gabbiano",
 		"Seagull2": "Gabbiano",
-		"Seahorse": "Ippocampo",
+		"Seahorse": "Cavalluccio ippocampo",
 		"SeaTurtle": "Tartaruga marina",
 		"SporeBat": "Pipistrello di spore",
 		"SporeSkeleton": "Scheletro di spore",
@@ -668,6 +668,8 @@
 		"ShadowFlameApparition": "Apparizione fiamma d'ombra",
 		"WindyBalloon": "Palloncino ventoso",
 		"ZombieEskimo": "Zombie congelato",
-		"PirateGhost": "Maledizione del pirata"
+		"PirateGhost": "Maledizione del pirata",
+		"Princess": "Principessa",
+		"TorchGod": "Dio della torcia"
 	}
 }

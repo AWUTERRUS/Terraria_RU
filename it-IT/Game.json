@@ -56,7 +56,19 @@
 		"Stardust": "Un guardiano di polvere di stella ti proteggerà dai nemici vicini",
 		"Ninja": "Velocità di movimento aumentata del 20%",
 		"Solar": "Gli scudi solari si caricano nel tempo per proteggerti e ti consentono di scattare\nUna carica viene utilizzata per danneggiare i nemici che tocchi\nLe cariche consumate esplodono e infliggono danni ai nemici",
-		"Turtle": "Gli aggressori ricevono anche danni doppi\nRiduce i danni ricevuti del 15%"
+		"Turtle": "Gli aggressori ricevono anche danni doppi\nRiduce i danni ricevuti del 15%",
+		"AdamantiteMelee": "Velocità di corpo a corpo e movimento aumentata del 20%",
+		"Bone": "Probabilità di colpo critico a distanza aumentata del 10%",
+		"Cactus": "Gli aggressori ricevono danni dalle spine di cactus",
+		"CrystalNinja": "Per scattare\nProbabilità di colpo critico e danno aumentate del 10%",
+		"Frost": "Gli attacchi in mischia e a distanza provocano scottatura raggelante\nAumenta i danni da mischia e dalla distanza del 10%",
+		"Gladiator": "Rende immuni dallo spintone",
+		"HallowedSummoner": "Diventi immune dopo aver colpito un nemico\ne aumenti il numero massimo dei tuoi seguaci di 2",
+		"Molten": "10% di danni da mischia in più,\nnon può prendere fuoco",
+		"MythrilMelee": "Probabilità di colpo critico in mischia aumentata del 10%",
+		"Nebula": "Il danno magico ha una probabilità di generare potenziamenti bonus,\nprendi i potenziamenti impilando bonus",
+		"SpectreHealing": "Riduce il danno magico del 40% e lo converte in forza di guarigione\nIl danno magico inflitto ai nemici cura il giocatore con meno salute",
+		"ObsidianOutlaw": "Aumenta la portata della frusta del 50% e la velocità del 35%,\naumenta i danni dei seguaci del 15%"
 	},
 	"BuffDescription": {
 		"AmmoBox": "20% di probabilità di non consumare munizioni",
@@ -144,7 +156,7 @@
 		"MagicLantern": "Una lanterna magica ti illumina il percorso",
 		"MagicPower": "Danno magico aumentato del 20%",
 		"ManaRegeneration": "Rigenerazione mana aumentata",
-		"ManaSickness": "Danno magico ridotto di",
+		"ManaSickness": "Danno magico ridotto di ",
 		"Merfolk": "Può respirare e muoversi facilmente sott'acqua",
 		"Midas": "Rilascia più monete morendo",
 		"MinecartLeft": "Sei a bordo di un carrello",
@@ -175,7 +187,7 @@
 		"OnFire": "Perdi lentamente vita",
 		"PaladinsShield": "25% del danno subito si riverserà su un altro giocatore",
 		"Panic": "Velocità di movimento aumentata",
-		"ParryDamageBuff": "Danni per il prossimo attacco in mischia aumentati del 500%",
+		"ParryDamageBuff": "Danni per il prossimo attacco in mischia aumentati del 400%",
 		"PeaceCandle": "Ritmo generazione mostri ridotto",
 		"PetBunny": "Credo che voglia la tua carota",
 		"PetDD2Dragon": "Un hoardagron ti sta seguendo",
@@ -372,7 +384,11 @@
 		"WellFed2": "Migliorie medie a tutti i parametri",
 		"WellFed3": "Grandi migliorie a tutti i parametri",
 		"EmpressBlade": "La Lama dell'Imperatrice combatterà per te",
-		"StormTiger": "La tigre del deserto combatterà al tuo fianco"
+		"StormTiger": "La tigre del deserto combatterà al tuo fianco",
+		"FlinxMinion": "Il flinx di neve combatterà per te",
+		"Frostburn2": "Troppo caldo o troppo freddo; comunque sia, fa un gran male",
+		"OnFire3": "Perdi lentamente vita",
+		"WeaponImbueVenom": "Gli attacchi in mischia applicano tossina acida sui tuoi bersagli"
 	},
 	"BuffName": {
 		"AmmoBox": "Cassa di munizioni",
@@ -687,7 +703,12 @@
 		"WellFed2": "Molto soddisfatto",
 		"WellFed3": "Perfettamente riempito",
 		"EmpressBlade": "Terraprisma",
-		"StormTiger": "Tigre del deserto"
+		"StormTiger": "Tigre del deserto",
+		"FlinxMinion": "Flinx",
+		"Frostburn2": "Congelamento",
+		"OnFire3": "Fuoco infernale",
+		"Venom": "Tossina acida",
+		"WeaponImbueVenom": "Infusione arma: tossina acida"
 	},
 	"MapObject": {
 		"Adamantite": "Adamantio",
@@ -944,7 +965,6 @@
 		"npc_Grasshopper": "Scavalca i fili d'erba alti con un unico balzo. Attira abbastanza i pesci.",
 		"npc_ZombieSuperman": "{$CommonBestiaryFlavor.CostumeZombie}",
 		"npc_HornetHoney": "{$CommonBestiaryFlavor.Hornet}",
-		"npc_Grubby": "Viscido, tuttavia appagante! Attira molto i pesci.",
 		"npc_Guide": "La guida offre sempre consigli utili e formule. Le sue origini e le connessioni insolite a questo mondo rimangono un mistero.",
 		"npc_HallowBoss": "Sotto lo strato purificante della Consacrazione si trova una vendicativa dea Fae intenta a ripulire la terra di qualsiasi impurità.",
 		"npc_Harpy": "Donne semiumane alate difendono il territorio dagli invasori conficcandoli con le loro piume affilate.",
@@ -1054,7 +1074,7 @@
 		"npc_SporeBat": "La situazione si è capovolta per una varietà di pipistrelli rabbiosi, nati con una micidiale micosi.",
 		"npc_SporeSkeleton": "Su questi scheletri che si aggirano nelle più umide caverne crescono funghi luminosi che li rendono molto più potenti.",
 		"npc_Squid": "Una creatura marina tentacolare che scarica un denso inchiostro nero quando viene minacciata. Questo inchiostro viene raccolto per scopi estetici.",
-		"npc_Squirrel": "Veloci e stravaganti creature del bosco con la pelliccia di colore marrone-grigio. Vanno matte per le ghiande.",
+		"npc_Squirrel": "Veloci e stravaganti creature del bosco con la pelliccia di colore marrone-grigio. Vanno matte per le ghiande. ",
 		"npc_SquirrelRed": "Radi roditori iperattivi con la pelliccia rossa che si aggirano nei boschi.",
 		"npc_Scarecrow6": "{$CommonBestiaryFlavor.Scarecrow}",
 		"npc_Scarecrow5": "{$CommonBestiaryFlavor.Scarecrow}",
@@ -1119,7 +1139,6 @@
 		"npc_BloodZombie": "Con abbastanza esposizione alla luna di sangue, gli zombie si attorcigliano e sono maledetti con sangue che si riversa continuamente dalla loro carne marcia.",
 		"npc_BoneLee": "Pare che secoli fa esisteva un clan di ninja che si nascondeva tra le ombre del mondo. Sembra che ormai siano morti da molto tempo.",
 		"npc_BoneSerpentHead": "Possenti draghi serpentini un tempo governavano l'inferno, ma molto tempo fa persero le loro squame di ossidiana. Un guscio scheletrico è tutto ciò che resta.",
-		"npc_BrainofCthulhu": "Un pezzo di Cthulhu strappato, questo vile genio pulsa di agonia e aiuta il Cremisi a tentare di vendicare il suo maestro.",
 		"npc_BrainScrambler": "Questi soldati marziani brandiscono armi laser grezze che rilasciano pericolose radiazioni a corto raggio, per questo indossano caschi di protezione.",
 		"npc_BunnySlimed": "È un coniglietto mascherato da slime? O è uno slime mascherato da coniglietto? A volte Halloween può creare molta confusione.",
 		"npc_BunnyXmas": "A giudicare dal vestito, quest'anno Babbo Natale deve aver reclutato dei coniglietti come aiutanti.",
@@ -1191,8 +1210,8 @@
 		"npc_Eyezor": "Una potente creatura zombie il cui occhio può vedere per miglia e scaraventare via gli avversari con laser potenti.",
 		"npc_FaceMonster": "Sarebbe imprudente affrontare una di queste insensibili mutazioni affamate. Le loro bocche sono grandi abbastanza da divorare tutto.",
 		"npc_FairyCritterBlue": "Creature umanoidi alate incandescenti delle dimensioni di una farfalla. In sintonia con il mondo che le circonda, sono bravissime a trovare cose luccicanti.",
-		"npc_FairyCritterGreen": "Creature umanoidi alate incandescenti, delle dimensioni di una farfalla. In sintonia con il mondo che le circonda, sono bravissime a trovare cose luccicanti.",
-		"npc_FairyCritterPink": "Creature umanoidi alate incandescenti, delle dimensioni di una farfalla. In sintonia con il mondo che le circonda, sono bravissime a trovare cose luccicanti.",
+		"npc_FairyCritterGreen": "Creature umanoidi alate incandescenti delle dimensioni di una farfalla. In sintonia con il mondo che le circonda, sono bravissime a trovare cose luccicanti.",
+		"npc_FairyCritterPink": "Creature umanoidi alate incandescenti delle dimensioni di una farfalla. In sintonia con il mondo che le circonda, sono bravissime a trovare cose luccicanti.",
 		"npc_FireImp": "Un demone minore saturo di magia infernale. In grado di teletrasportarsi e lanciare palle infuocate fantasma verso i loro nemici.",
 		"npc_FloatyGross": "Questi vivaci terrori delle più buie profondità cremisi sono decisamente, senza alcun dubbio, galleggianti e disgustose.",
 		"npc_Flocko": "Queste feroci scaglie sono seguaci congelati della regina del ghiaccio. Dove cade questa funesta neve, così la sua sentenza ghiacciata.",
@@ -1348,14 +1367,20 @@
 		"npc_VortexRifleman": "Questi soldati alieni portano un arsenale versatile di fucili celestiali e accessori cosmici che consentono di sfidare la forza di gravità.",
 		"npc_VortexSoldier": "L'energia cosmica emanata da questi guerrieri si accumula fino alla loro prematura scomparsa, provocando un esplosione di fulmini.",
 		"npc_WaterStrider": "Scivola elegantemente lungo la superficie degli specchi d'acqua alla ricerca di insetti minori. I pesci sono di tanto in tanto attratti da queste creature.",
-		"npc_WindyBalloon": "Alcuni slime intraprendenti percorrono le correnti di vento con i palloncini alla ricerca di cibo. Basta far scoppiare i palloncini per riportarli a terra.",
+		"npc_WindyBalloon": "Alcuni slime intraprendenti percorrono le correnti di vento con i palloncini alla ricerca di cibo. Basta far scoppiare i palloncini per riportarli a terra. ",
 		"npc_Wizard": "Lo stregone è un vecchio svitato che si diletta nelle arti arcane. Vende articoli magici per addestrare nuovi apprendisti.",
 		"npc_Wolf": "Vivendo nei climi più ostili, questi lupini selvaggi vanno disperatamente a caccia nel buio della notte per il proprio sostentamento.",
 		"npc_Worm": "Un viscido invertebrato tubolare che si nasconde nelle rocce, nella terra e nell'erba. Ama la pioggia. I pesci sono particolarmente attratti da queste creature.",
 		"npc_WyvernHead": "Una creatura colossale simile a un drago liberato insieme agli spiriti antichi. Spadroneggia nei cieli con la sua potenza impareggiabile.",
 		"npc_Yeti": "Uno scimmione irascibile proveniente dai territori freddi e innevati del nord. Non apprezza le festività, quindi è venuto a rovinare il divertimento.",
 		"npc_ZombieEskimo": "Gli zombie trovati nei biomi innevati sono spesso avvolti di abiti invernali. Non serve a molto visto che sono comunque congelati!",
-		"npc_ZombieRaincoat": "Alcuni zombie non escono mai di casa senza il loro fedele impermeabile. Comodi e asciutti, perseguono la carne umana con qualsiasi clima."
+		"npc_ZombieRaincoat": "Alcuni zombie non escono mai di casa senza il loro fedele impermeabile. Comodi e asciutti, perseguono la carne umana con qualsiasi clima.",
+		"npc_Princess": "Timida e innocente, questa giovane riesce a vedere qualcosa di positivo in tutto e in tutti. Apprezza tutti i suoi sudditi, qualunque sia la loro estrazione sociale.",
+		"npc_SeaSnail": "Questa lumaca, insolitamente grande, abita sul fondo dell'oceano. La sua mucosa può essere usata per produrre tintura viola.",
+		"npc_TorchGod": "Una divinità invisibile, responsabile dello sfarfallio eterno di una torcia, ma facilmente irritata dal posizionamento sgradevole e ingrato della torcia.",
+		"npc_BrainofCthulhu": "Un pezzo di Cthulhu strappato, questo vile genio pulsa di agonia e aiuta il Cremisi a tentare di vendicare il suo maestro.",
+		"npc_Grubby": "Viscido, tuttavia appagante! I pesci sono piuttosto attratti da queste creature.",
+		"npc_Sluggy": "Creature lente e ricoperte di mucosa viscida. I pesci sono particolarmente attratti da queste creature."
 	},
 	"BestiaryInfo": {
 		"Attack": "Attacca",
@@ -1575,11 +1600,9 @@
 		"Godmode_Description": "Diventa invulnerabile ai danni!",
 		"Godmode_Disabled": "Modalità divina disattivata",
 		"Godmode_Enabled": "Modalità divina attivata",
-		"InfiniteItemSacrificeShortDescription": "Ricercando {ItemName} si consumerà",
 		"InfiniteItemsCategory": "Ricerca oggetti infiniti",
 		"InfinitePlacementRange_Disabled": "Portata di posizionamento normale",
 		"InfinitePlacementRange_Enabled": "Portata di posizionamento aumentata",
-		"ItemWasJustUnlockedInfinitely": "Una volta ricercata una quantità sufficiente di {ItemName}, sarà disponibile all'infinito!",
 		"ModifyRainPower_Closed": "Apri il cursore di controllo pioggia",
 		"ModifyRainPower_Opened": "Chiudi il cursore di controllo pioggia",
 		"ModifyTimeRate_Closed": "Apri il cursore di velocità del tempo",
@@ -1640,7 +1663,13 @@
 		"CantUsePowerBecauseOfNoPermissionFromServer": "Non sei autorizzato a usare questo potere",
 		"PersonalCategory": "Poteri adatti a te",
 		"PersonalCategoryClosed": "Apri il menu dei poteri personali",
-		"PersonalCategoryOpened": "Chiudi il menu dei poteri personali"
+		"PersonalCategoryOpened": "Chiudi il menu dei poteri personali",
+		"TabAccessoriesMisc": "Equipaggiamento",
+		"TabFurniture": "Arredamento",
+		"TabTools": "Attrezzi",
+		"TabVanity": "Estetica",
+		"InfiniteItemSacrificeShortDescription": "Ricercando <item name> si consumerà",
+		"ItemWasJustUnlockedInfinitely": "Una volta ricercata una quantità sufficiente di <item name>, sarà disponibile all'infinito!"
 	},
 	"EmojiCommand": {
 		"BiomeBeach": "/{$EmojiName.BiomeBeach}",
@@ -1787,7 +1816,8 @@
 		"WeatherRainbow": "/{$EmojiName.WeatherRainbow}",
 		"WeatherSnowstorm": "/{$EmojiName.WeatherSnowstorm}",
 		"WeatherStorming": "/{$EmojiName.WeatherStorming}",
-		"WeatherSunny": "/{$EmojiName.WeatherSunny}"
+		"WeatherSunny": "/{$EmojiName.WeatherSunny}",
+		"TownPrincess": "/{$EmojiName.TownPrincess}"
 	},
 	"EmojiName": {
 		"BiomeBeach": "spiaggia",
@@ -1934,7 +1964,8 @@
 		"TownSanta": "babbonatale",
 		"TownSkeletonMerchant": "venditorescheletrico",
 		"TownTravellingMerchant": "venditoreitinerante",
-		"BossEmpressOfLight": "idl"
+		"BossEmpressOfLight": "idl",
+		"TownPrincess": "principessa"
 	},
 	"LoadingTips_Default": {
 		"1": "Gli altri giocatori possono saccheggiare le tue casse! Se non ti fidi, utilizza una cassaforte o un salvadanaio. Questi sono portaoggetti accessibili solo al singolo giocatore.",
@@ -2043,7 +2074,9 @@
 		"97": "Non tutti gli scheletri sono malvagi. Alcuni sono persino conosciuti per vendere articoli unici a chi riesce a trovarli.",
 		"98": "Non sai cos'altro fare? Dai un'occhiata alla guida degli obiettivi per un indizio!",
 		"99": "Se un nemico ruba i tuoi soldi dopo che muori in modalità Esperto, dagli la caccia! Se lo sconfiggi, potrai recuperare i tuoi soldi.",
-		"106": "La borsa vuota è un artefatto magico che immagazzina gli oggetti per te quando l'inventario è pieno."
+		"106": "La borsa vuota è un artefatto magico che immagazzina gli oggetti per te quando l'inventario è pieno.",
+		"13": "Se possiedi il ferro di cavallo fortunato non ti farai male quando cadi. Cercalo nelle casse sotto terra.",
+		"32": "Di sera a volte si vedono le stelle cadenti. Raccogline 5 per creare un cristallo mana da utilizzare per aumentare il tuo livello di mana."
 	},
 	"WorldGeneration": {
 		"OceanSand": "Generazione sabbia oceanica"

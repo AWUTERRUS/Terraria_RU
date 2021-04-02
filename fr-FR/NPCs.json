@@ -454,7 +454,7 @@
 		"DesertScorpionWalk": "Braconnier des sables",
 		"DesertScorpionWall": "Braconnier des sables",
 		"Drippler": "Dégoulineur",
-		"DrManFly": "Dr Mouche ",
+		"DrManFly": "Dr Mouche",
 		"DuneSplicerBody": "Colleur des dunes",
 		"DuneSplicerHead": "Colleur des dunes",
 		"DuneSplicerTail": "Colleur des dunes",
@@ -668,6 +668,8 @@
 		"ShadowFlameApparition": "Apparition de flamme d'ombre",
 		"WindyBalloon": "Ballon venteux",
 		"ZombieEskimo": "Zombie gelé",
-		"PirateGhost": "Malédiction de pirate"
+		"PirateGhost": "Malédiction de pirate",
+		"Princess": "Princesse",
+		"TorchGod": "Le Dieu des torches"
 	}
 }

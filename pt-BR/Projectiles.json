@@ -877,6 +877,13 @@
 		"Mace": "Maça",
 		"StardustPunch": "Guardião de Pó das Estrelas",
 		"TorchGod": "O Deus da Tocha",
-		"VampireFrog": "Sapo Vampiro"
+		"VampireFrog": "Sapo Vampiro",
+		"BoneWhip": "Punção Lombar",
+		"DaybreakExplosion": "Explosão Solar",
+		"FlinxMinion": "Flinx",
+		"PrincessWeapon": "Ressonância Real",
+		"SolarWhipSwordExplosion": "Explosão Solar",
+		"WandOfSparkingSpark": "{$ProjectileName.Spark}",
+		"StarCannonStar": "{$ProjectileName.FallingStar}"
 	}
 }

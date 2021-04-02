@@ -877,6 +877,13 @@
 		"Mace": "Жезл",
 		"StardustPunch": "Хранитель звездной пыли",
 		"TorchGod": "Бог факелов",
-		"VampireFrog": "Лягушка-вампир"
+		"VampireFrog": "Лягушка-вампир",
+		"BoneWhip": "Люмбальная пункция",
+		"DaybreakExplosion": "Солнечный взрыв",
+		"FlinxMinion": "флинкс",
+		"PrincessWeapon": "Королевский резонанс",
+		"SolarWhipSwordExplosion": "Солнечный взрыв",
+		"WandOfSparkingSpark": "{$ProjectileName.Spark}",
+		"StarCannonStar": "{$ProjectileName.FallingStar}"
 	}
 }
