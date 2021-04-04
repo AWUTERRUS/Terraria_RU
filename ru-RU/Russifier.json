@@ -1,0 +1,33 @@
+{
+	"Russifier": {
+		"Version": "AWUTERRUS отключен.",
+		"UpdateAvailableText": "Доступно обновление русификатора! Версия {0}\nСкачать и установить сейчас или отложить обновление?\n(После загрузки обновления потребуется перезапуск игры)\n\n{1}",
+		"InstalledLatestVersion": "У вас уже установлена последняя версия русификатора.",
+		"CheckForUpdates": "Проверить наличие обновлений",
+		"DownloadingUpdate": "Загрузка файла {0}",
+		"Yes": "Обновить",
+		"No": "Позже",
+		"OK": "Ок",
+		"OpenURL": "Открыть ссылку",
+		"ExperimentalUpdates": "Экспериментальные обновления: {0}",
+		"On": "Вкл.",
+		"Off": "Выкл.",
+		"Font": "Шрифт",
+		"Refresh": "Обновить",
+		"Apply": "Применить",
+		"SettingsRelaunchAlert": "Изменения вступят в силу только после перезапуска игры",
+		"Default": "По умолчанию"
+	},
+	"Language": {
+		"English": "English (Английский)",
+		"German": "Deutsch (Немецкий)",
+		"Italian": "Italiano (Итальянский)",
+		"French": "Français (Французский)",
+		"Spanish": "Español (Испанский)",
+		"Russian": "Русский (Официальный перевод)",
+		"Chinese": "简体中文 (Китайский упрощенный)",
+		"Portuguese": "Português brasileiro (Португальский (бразильский))",
+		"Polish": "Polski (Польский)",
+		"RussianAlt": "Русский (AWUTERRUS)"
+	}
+}
