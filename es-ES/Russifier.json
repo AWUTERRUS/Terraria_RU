@@ -1,0 +1,33 @@
+{
+	"Russifier": {
+		"Version": "AWUTERRUS deshabilitado.",
+		"UpdateAvailableText": "La actualización de Russifier está disponible! Versión {0}\nDescargar e instalar ahora o más tarde?\n(Después de descargar la actualización, deberás reiniciar el juego)\n\n{1}",
+		"InstalledLatestVersion": "La última versión del russifier ya está instalada.",
+		"CheckForUpdates": "Buscar actualizaciones",
+		"DownloadingUpdate": "Descargar {0}...",
+		"Yes": "Actualizar",
+		"No": "Tarde",
+		"OK": "Ok",
+		"OpenURL": "Abrir URL",
+		"ExperimentalUpdates": "Experimental actualizaciones: {0}",
+		"On": "Encendido",
+		"Off": "Apagado",
+		"Font": "Letra",
+		"Refresh": "Actualizar",
+		"Apply": "Aplicar",
+		"SettingsRelaunchAlert": "Los cambios entrarán en vigor solo después de reiniciar el juego",
+		"Default": "Predeterminado"
+	},
+	"Language": {
+		"English": "English (Inglés)",
+		"German": "Deutsch (Alemán)",
+		"Italian": "Italiano (Italiano)",
+		"French": "Français (Francés)",
+		"Spanish": "Español",
+		"Russian": "Русский (Ruso)",
+		"Chinese": "简体中文 (Chino simplificado)",
+		"Portuguese": "Português brasileiro (Portugués de Brasil)",
+		"Polish": "Polski (Polaco)",
+		"RussianAlt": "Русский AWUTERRUS (Ruso AWUTERRUS)"
+	}
+}

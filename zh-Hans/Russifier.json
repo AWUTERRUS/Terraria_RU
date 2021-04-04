@@ -1,0 +1,33 @@
+{
+	"Russifier": {
+		"Version": "AWUTERRUS 禁用。",
+		"UpdateAvailableText": "俄语更新可用！ 版 {0}\n立即下载并安装还是稍后安装？\n（下载更新后，您将需要重新启动游戏）\n\n{1}",
+		"InstalledLatestVersion": "已经安装了最新版本的russifier。",
+		"CheckForUpdates": "检查更新",
+		"DownloadingUpdate": "正在下载 {0}...",
+		"Yes": "更新资料",
+		"No": "后来",
+		"OK": "好",
+		"OpenURL": "开启网址",
+		"ExperimentalUpdates": "实验更新： {0}",
+		"On": "上",
+		"Off": "关",
+		"Font": "字体",
+		"Refresh": "刷新",
+		"Apply": "申请",
+		"SettingsRelaunchAlert": "更改仅在重新启动游戏后才会生效",
+		"Default": "默认"
+	},
+	"Language": {
+		"English": "English (英语)",
+		"German": "Deutsch (德语)",
+		"Italian": "Italiano (意大利语)",
+		"French": "Français (法语)",
+		"Spanish": "Español (西班牙语)",
+		"Russian": "Русский (官方)",
+		"Chinese": "简体中文",
+		"Portuguese": "Português brasileiro (巴西葡萄牙语)",
+		"Polish": "Polski (波兰语)",
+		"RussianAlt": "Русский (AWUTERRUS)"
+	}
+}
