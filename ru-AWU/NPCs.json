@@ -670,6 +670,8 @@
 		"EmpressButterfly": "Призменная златоглазка",
 		"PirateGhost": "Пиратское проклятье",
 		"TorchGod": "Бог Факелов",
-		"Princess": "Принцесса"
+		"Princess": "Принцесса",
+		"ChaosBallTim": "{$NPCName.ChaosBall}",
+		"VileSpitEaterOfWorlds": "{$NPCName.VileSpit}"
 	}
 }
