@@ -10,7 +10,6 @@
 3. Скопировать распакованные файлы в директорию с игрой, подтверждая замену.
 
 ## Как внести изменения?
-
 1. Зарегистрироваться на GitHub.
 2. Форкнуть этот репозиторий (кнопка "Fork").
 3. Выбрать один из файлов в репозитории, и отредактировать его (кнопка "Edit this file").
@@ -27,5 +26,6 @@
 1. Отправить сообщение об ошибке нам на [E-Mail](mailto:awuterrus@gmail.com) / на наш сервер [Discord](https://discord.gg/fEUTdef)
 
 # Наши контактные данные:
-* awuterrus@gmail.com
-* [Discord](https://discord.gg/fEUTdef)
+- awuterrus@gmail.com
+- [Discord](https://discord.gg/fEUTdef)
+- [Telegram](https://t.me/AWUTERRUS)
