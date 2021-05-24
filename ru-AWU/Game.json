@@ -1363,6 +1363,7 @@
 		"LegacyHack_IsBossAndNotExpert": "",
 		"IsExpert": "Выпадает только в режиме эксперта",
 		"IsMasterMode": "Выпадает только в режиме мастера",
+		"Is10thAnniverary": "Это юбилейный сид",
 		"IsCrimson": "Выпадает в кримзоне",
 		"IsCorruption": "Выпадает в искажении",
 		"IsCrimsonAndNotExpert": "",
