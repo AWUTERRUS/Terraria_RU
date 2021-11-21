@@ -672,6 +672,8 @@
 		"TorchGod": "Бог Факелов",
 		"Princess": "Принцесса",
 		"ChaosBallTim": "{$NPCName.ChaosBall}",
-		"VileSpitEaterOfWorlds": "{$NPCName.VileSpit}"
+		"VileSpitEaterOfWorlds": "{$NPCName.VileSpit}",
+		"Deerclops": "Циклоп-олень",
+		"DeerclopsLeg": "Нога Циклоп-оленя"
 	}
 }

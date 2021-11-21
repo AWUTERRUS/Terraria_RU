@@ -1,6 +1,7 @@
 {
 	"WorldGeneration": {
-		"OceanSand":  "Генерация океанического песка"
+		"OceanSand":  "Генерация океанического песка",
+		"WavyCaves": "Генерация волнистых пещер"
 	},
 	"LoadingTips_Default": {
 		"1": "Другие игроки могут открывать ваши сундуки! Если вы не доверяете им, используйте сейф или копилку. Предметы, которые хранятся в них, видны ТОЛЬКО вам.",
@@ -305,7 +306,12 @@
 		"TownBestiaryGirlFox": "/{$EmojiName.TownBestiaryGirlFox}",
 		"BossEmpressOfLight": "/{$EmojiName.BossEmpressOfLight}",
 		"BossQueenSlime": "/{$EmojiName.BossQueenSlime}",
-		"TownPrincess": "/{$EmojiName.TownPrincess}"
+		"TownPrincess": "/{$EmojiName.TownPrincess}",
+		"Peckish": "/{$EmojiName.Peckish}",
+		"Hungry": "/{$EmojiName.Hungry}",
+		"Starving": "/{$EmojiName.Starving}",
+		"LucyTheAxe": "/{$EmojiName.LucyTheAxe}",
+		"BossDeerclops": "/{$EmojiName.BossDeerclops}"
 	},
 	"EmojiName": {
 		"EmotionLove": "heart",
@@ -453,7 +459,12 @@
 		"TownBestiaryGirlFox": "zoologistfox",
 		"BossEmpressOfLight": "empressoflight",
 		"BossQueenSlime": "queenslime",
-		"TownPrincess": "princess"
+		"TownPrincess": "princess",
+		"Peckish": "peckish",
+		"Hungry": "hunger",
+		"Starving": "starving",
+		"LucyTheAxe": "lucy",
+		"BossDeerclops": "deerclops"
 	},
 	"Announcement": {
 		"HasBeenDefeated_Single": "{0} был повержен!",
@@ -866,7 +877,16 @@
 		"EmpressBlade": "Призма земли",
 		"OnFire3": "Адский огонь",
 		"Frostburn2": "Обморожение",
-		"FlinxMinion": "Флинкс"
+		"FlinxMinion": "Флинкс",
+		"NeutralHunger": "Голод",
+		"Hunger": "Голодание",
+		"Starving": "Голодовка",
+		"BerniePet": "Берни",
+		"GlommerPet": "Гломмер",
+		"DeerclopsPet": "Маленький циклоп-олень",
+		"PigPet": "Свин",
+		"ChesterPet": "Честер",
+		"AbigailMinion": "Эбигейл"
 		
 
 	},
@@ -1188,7 +1208,16 @@
 		"EmpressBlade": "Клинки императрицы будут сражаться за вас",
 		"Frostburn2": "То ли жарко, то ли холодно. В любом случае, это РЕАЛЬНО больно",
 		"OnFire3": "Медленная потеря здоровья",
-		"FlinxMinion": "Ледяной сфинкс сражается за вас"
+		"FlinxMinion": "Ледяной сфинкс сражается за вас",
+		"NeutralHunger": "Стоило бы покушать, но пока что все не так плохо",
+		"Hunger": "Вы весьма голодны и чувствуете слабость",
+		"Starving": "Вы умираете с голоду! Вам нужно НЕМЕДЛЕННО поесть!",
+		"BerniePet": "Ты всегда рядом, Берни",
+		"GlommerPet": "Он такой пушистый! И скользкий...",
+		"DeerclopsPet": "Боже мой!",
+		"PigPet": "Когда-то он станет беконом...",
+		"ChesterPet": "Otto von Chesterfield, Esquire",
+		"AbigailMinion": "Эбигейл будет драться, защищая вас"
 
 	},
 	"ArmorSetBonus": {
@@ -1364,6 +1393,7 @@
 		"IsExpert": "Выпадает только в режиме эксперта",
 		"IsMasterMode": "Выпадает только в режиме мастера",
 		"Is10thAnniverary": "Это юбилейный сид",
+		"IsDontStarve": "Это сид из Don't Starve",
 		"IsCrimson": "Выпадает в кримзоне",
 		"IsCorruption": "Выпадает в искажении",
 		"IsCrimsonAndNotExpert": "",
@@ -2040,7 +2070,8 @@
 		"npc_QueenSlimeMinionPurple": "Фиолетовые кристаллические шипы, выбрасываемые из тела королевы слизней.",
 		"npc_EmpressButterfly": "Если одно из светящихся существ погибнет в этом хаосе, то, по слухам, спящий тиран будет насильственно пробужден.",
 		"npc_TorchGod": "Невидимое божество, ответственное за вечное горение факела, однако его можно легко разгневать, злоупотребляя факелами.",
-		"npc_Princess": "Стеснительная и невинная, эта прекрасная молодая леди на все смотрит оптимистично. Она ценит всех своих подданных, как и всех людей в этом мире."
+		"npc_Princess": "Стеснительная и невинная, эта прекрасная молодая леди на все смотрит оптимистично. Она ценит всех своих подданных, как и всех людей в этом мире.",
+		"npc_Deerclops": "Пришедший из далеких земель, это циклопоподобное чудовище скрывается в холодных местах, внушая хаос тем, кто побеспокоит его."
 	},
 		"CreativePowers": {
 		"InfiniteItemSacrificeShortDescription": "Исследование предмета '' <item name> '' потратит его",
@@ -2141,6 +2172,52 @@
 		"Sort_Blocks": "Блоки",
 		"Sort_Alphabetical": "Имя",
 		"CantUsePowerBecauseOfNoPermissionFromServer": "У вас нет прав использовать эту силу."
+	},
+	"LucyTheAxe_Idle":
+	{
+		"1": "Эй! Сруби пару деревьев!",
+		"2": "Отличная погода для рубки.",
+		"3": "Вшух, пш, вшш. Хех.",
+		"4": "Из нас неплохая команда выходит!",
+		"5": "Давай найдем рощу и дадим жару!"
+	},
+	"LucyTheAxe_Storage":
+	{
+		"1": "Отстой...",
+		"2": "Здесь так темно!",
+		"3": "Помогите! Вытащите меня отсюда!",
+		"4": "Здесь нечего рубить!",
+		"5": "У меня клаустрофобия!"
+	},
+	"LucyTheAxe_ThrownAway":
+	{
+		"1": "Ты ведь вернешься, верно?",
+		"2": "Эй! Я никогда тебя не бросил бы!",
+		"3": "Не забывай обо мне!",
+		"4": "Разве мы не друзья?",
+		"5": "Ты бросаешь меня?!"
+	},
+	"LucyTheAxe_PickedUp":
+	{
+		"1": "О, слава богу!",
+		"2": "Отныне мы будем неразлучны.",
+		"3": "Ах, я вернулся туда, где мне место."
+	},
+	"LucyTheAxe_ChoppedTree":
+	{
+		"1": "Давай еще! Давай срубим еще одно!",
+		"2": "Это ПРЕКРАСНО!",
+		"3": "Умри! Умри!",
+		"4": "Это то, ради чего я жив!",
+		"5": "Тупое дерево!",
+		"6": "Я чувствую себя ЖИВЫМ!",
+		"7": "Мы сделали это!",
+		"8": "ХаХАХА!",
+		"9": "Воооооооу!",
+		"10": "О ДАААААА!"
+	},
+	"LucyTheAxe_GemTree":
+	{
+		"1": "Итак, каменные деревья... Что с ними не так?"
 	}
-
 }

@@ -882,6 +882,17 @@
 		"PrincessWeapon": "Королевский резонанс",
 		"FlinxMinion": "Флинкс",
 		"DaybreakExplosion": "Солнечный взрыв",
-		"BoneWhip": "Спиночес"
+		"BoneWhip": "Спиночес",
+		"WandOfSparkingSpark": "{$ProjectileName.Spark}",
+		"StarCannonStar": "{$ProjectileName.FallingStar}",
+		"DeerclopsIceSpike": "Ледяной шип",
+		"DeerclopsRangedProjectile": "Осколки",
+		"AbigailMinion": "Эбигейл",
+		"InsanityShadowFriendly": "Теневая рука",
+		"InsanityShadowHostile": "Теневая рука",
+		"HoundiusShootius": "Охотус на гончихус",
+		"HoundiusShootiusFireball": "Охотус на гончихус",
+		"PewMaticHornShot": "Пиу-матическая штука",
+		"WeatherPainShot": "Больнадо"
 	}
 }
